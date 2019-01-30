@@ -6,7 +6,6 @@
 [2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
 [3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
 
-
 # Kuliah Seismologi (MFG3925)
 Kuliah Seismologi di Program Studi Geofisika, Departemen Fisika UGM, 2 SKS
 
