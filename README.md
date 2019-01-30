@@ -1,6 +1,6 @@
 ![alt text][1.1]
-[![alt text][2.1]][2]
-[![alt text][3.1]][3]
+![alt text][2.1]
+![alt text][3.1]
 
 [1.1]: http://i.imgur.com/tXSoThF.png 
 [2.1]: http://i.imgur.com/P3YfQoD.png 
@@ -16,7 +16,7 @@ Tujuan utama dari studi ini adalah memperkenalkan kepada mahasiswa hal yang mend
 ## Pengampu
 - Dr.rer.nat. Ade Anggraini, M.T (Setelah Ujian Mid-Term)
 - **Wiwit Suryanto** (it's me), (Sebelum Mid-Term)
-Follow me on [![alt text][1.1]][1]
+Follow me on ![alt text][1.1]
 
 ## Prasyarat: MFF 2921 (Mekanika Medium Kontinyu).
 **Silabus**: Tujuan utama dari studi ini adalah memperkenalkan kepada mahasiswa hal yang mendasar tentang seismologi (gempa bumi) untuk mengenal terminologinya dan memahami dasar-dasar teoritis maupun praktis yang mutlak diperlukan bila ingin bekerja dalam bidang pergempabumian. Setelah mengikuti kuliah ini mahasiswa diharapkan dapat menjelaskan dengan baik dan benar tentang kejadian gempa,
