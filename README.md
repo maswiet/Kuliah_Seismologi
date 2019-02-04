@@ -67,3 +67,6 @@ T.B.A = to-be-anounced
 3. Waluyo (1998). Materi kuliah Seismologi, Program Studi Geofisika, FMIPA-UGM.
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/411QOuJzYAL._SY291_BO1,204,203,200_QL40_.jpg" width=128px height=161px alt='Newman'> <img src="https://images-na.ssl-images-amazon.com/images/I/51td5MftP2L._SX344_BO1,204,203,200_.jpg" width=128px height=161px alt='Mase'>
+
+## Aplikasi Seismologi:
+1. [Obspy](obspy.org), O., 1997: Anatomy of Seismograms, Elsevier, Netherland.
