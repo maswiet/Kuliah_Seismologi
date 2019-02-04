@@ -41,21 +41,21 @@ Berikut jadwal pertemuan setiap minggunya
 
 | Minggu-ke | Tema                                 | Materi |
 |:------:|:-------------------------------------|:-------:|
-| 1     | Dasar matematika, Kalkulus Tensor | T.B.A |
-| 2     | Prinsip Stress | T.B.A |
-| 3    | Diagram Mohr | T.B.A |
-| 4     | Deformasi Benda kontinyu1 | T.B.A |
-| 5     | Deformasi Benda kontinyu1 | T.B.A |
-| 6     | Gerak Benda Kontinyu1 | T.B.A |
-| 7     | Gerak Benda Kontinyu2 |  T.B.A |
+| 1     | Sejarah dan Wawasan Seismologi | T.B.A |
+| 2     | Prinsip Kerja Seismometer | T.B.A |
+| 3    | Gempa Bumi (Tempat kejadian dan penyebabnya) | T.B.A |
+| 4     | Struktur Bagian dalam Bumi | T.B.A |
+| 5     | Gelombang Seismik | T.B.A |
+| 6     | Data Seismologi Digital | T.B.A |
+| 7     | Aplikasi Seismologi |  T.B.A |
 | 8     | Ujian Tengah Semester | [T.B.A](#) |
-| 9     | Hukum-hukum dan Persamaan Fundamental| [T.B.A](#) |
-| 10     | Benda padat elastik1 (Linear Isotrop) | [T.B.A](#) |
-| 11     | Benda padat elastik2 (Linear Isotrop) | [T.B.A](#) |
-| 12     | Benda padat elastik1 (Linear Anisotrop) | [T.B.A](#) |
-| 13     | Benda padat elastik2 (Linear Anisotrop) | [T.B.A](#) |
-| 14     | Komputasi MMK2 | [T.B.A](#) |
-| 15     | Komputasi MMK1 | [T.B.A](#) |
+| 9     | Waktu Penjalaran Gelombang Seismik| [T.B.A](#) |
+| 10     | Lintasan Gelombang Seismik dan Fase Gempa | [T.B.A](#) |
+| 11     | Parameter Sumber dan Penentuannya | [T.B.A](#) |
+| 12     | Mekanisme Gempabumi 1 | [T.B.A](#) |
+| 13     | Mekanisme Gempabumi 2 | [T.B.A](#) |
+| 14     | Statistika Gempabumi | [T.B.A](#) |
+| 15     | Tes Nuklir, Getaran karena Ledakan dan Seismologi Planet  | [T.B.A](#) |
 | 16     | Ujian Akhir Semester | [T.B.A](#) |
 
 T.B.A = to-be-anounced 
