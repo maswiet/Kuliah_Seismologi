@@ -41,7 +41,7 @@ Berikut jadwal pertemuan setiap minggunya
 
 | Minggu-ke | Tema                                 | Materi |
 |:------:|:-------------------------------------|:-------:|
-| 1     | Sejarah dan Wawasan Seismologi | T.B.A |
+| 1     | Sejarah dan Wawasan Seismologi | [Bahan Kuliah](https://nbviewer.jupyter.org/github/maswiet/Kuliah_Seismologi/blob/master/Untitled1.ipynb) |
 | 2     | Prinsip Kerja Seismometer | T.B.A |
 | 3    | Gempa Bumi (Tempat kejadian dan penyebabnya) | T.B.A |
 | 4     | Struktur Bagian dalam Bumi | T.B.A |
