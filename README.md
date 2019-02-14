@@ -27,7 +27,10 @@ Tujuan utama dari studi ini adalah memperkenalkan kepada mahasiswa hal yang mend
 Follow me on [![alt text][1.1]][1]
 
 ## Prasyarat: MFF 2921 (Mekanika Medium Kontinyu).
-**Silabus**: Tujuan utama dari studi ini adalah memperkenalkan kepada mahasiswa hal yang mendasar tentang seismologi (gempa bumi) untuk mengenal terminologinya dan memahami dasar-dasar teoritis maupun praktis yang mutlak diperlukan bila ingin bekerja dalam bidang pergempabumian. Setelah mengikuti kuliah ini mahasiswa diharapkan dapat menjelaskan dengan baik dan benar tentang kejadian gempa,
+**Silabus**: Tujuan utama dari studi ini adalah memperkenalkan kepada mahasiswa hal yang mendasar tentang seismologi (gempa bumi) untuk mengenal terminologinya dan memahami dasar-dasar teoritis maupun praktis yang mutlak diperlukan bila ingin bekerja dalam bidang pergempabumian. 
+Materi kuliah ini adalah: Sejarah dan wawasan seismologi: perkembangan teori elastisitas dan seismologi, pengetahuan awal bumi bagian dalam; Instrumentasi seismologi: seismometer dan seismograf, problem perioda, kalibarasi seismometer; Gelombang seismik: jenis dan kecepatan gelombang seismik, hukum Snell, gelombang kepala, gelombang badan dari gempa jarak jauh/dekat/sedang, gelombang permukaan/mantel/kanal, gelombang mikroseismik; Parameter sumber dan penentuannya: episenter, hiposenter, magnitude dan energi, intensitas gempa; Mekanisme sumber gempa: penyelesaian bidang sesar dan parameter mekanisme sumber gempa.
+
+Setelah mengikuti kuliah ini mahasiswa diharapkan dapat menjelaskan dengan baik dan benar tentang kejadian gempa,
 ukuran gempa, intensitas gempa, lokasi gempa dan tindakan untuk mengurangi risiko bila terjadi
 gempa.
 
@@ -37,11 +40,16 @@ Menurut [buku panduan akademik S1 FMIPA UGM](http://mipa.ugm.ac.id/file/kurikulu
 1. G3 Ketrampilan Umum
 2. G4 Ketrampilan Khusus
 3. G5 Ketrampilan Khusus
+Ketiga kompetensi tersebut dijabarkan dalam 4 capaian pembelajaran, yaitu:
+1. **S1** - Mahasiswa akan dapat menjelaskan definisi seismologi dan wawasannya, posisi seismologi dalam geofisika, dan sejarah perkembangan teori elastisitas dan instalasi seismograf 
+2. **S2** - Mahasiswa dapat menemukan  fase gelombang P dan S dari gempa local, regional, dan jauh.
+3. **S3** - Mahasiswa dapat menghitung parameter sumber gempa bumi: waktu kejadian, posisi, kekuatan/energi gempa dan intesitas gempa.
+4. **S4** - Mahasiswa dapat menafsirkan jenis sumber gempabumi melalui penentuan mekanisme sumber menggunakan gelombang P dan proyeksi stereonet. 
 
 ## Jadwal
 
 Jadwal kuliah satu kali dalam satu minggu, yaitu:
-- Kamis, jam 15:30 s.d. 17:10 di S1.102
+- Kamis, jam 10:30 s.d. 12:10 di S1.101
 
 Kuliah geofisika "jaman now", atau istilah keren-nya Pendidikan Geofisika di era Industri 4.0 pastinya tidak lepas dari aplikasi, sehingga dalam kuliah Seismologi ini juga pendekatan secara komputasi akan dilakukan. Utamanya pada saat materi tentang aplikasi yang biasa dipakai di pekerjaan Seismologi. Hal ini didukung dengan semakin mudahnya akses terhadap bahasa pemrograman yang moderen, dinamis dan fleksibel untuk digunakan, misalnya bahasa [Python](http://python.org) atau MATLAB. Bahasa ini juga dimanjakan oleh komunitasnya, dengan fasilitas notebook, yang dikenal dengan Jupyter [Jupyter notebooks](http://jupyter.org/). Harapannya hal ini dapat memberikan motivasi tambahan mahasiswa Geofisika untuk menyenangi komputasi. Karena kalau Aku senang, maka aku Bisa ! 
 
