@@ -40,6 +40,7 @@ Menurut [buku panduan akademik S1 FMIPA UGM](http://mipa.ugm.ac.id/file/kurikulu
 1. G3 Ketrampilan Umum
 2. G4 Ketrampilan Khusus
 3. G5 Ketrampilan Khusus
+
 Ketiga kompetensi tersebut dijabarkan dalam 4 capaian pembelajaran, yaitu:
 1. **S1** - Mahasiswa akan dapat menjelaskan definisi seismologi dan wawasannya, posisi seismologi dalam geofisika, dan sejarah perkembangan teori elastisitas dan instalasi seismograf 
 2. **S2** - Mahasiswa dapat menemukan  fase gelombang P dan S dari gempa local, regional, dan jauh.
