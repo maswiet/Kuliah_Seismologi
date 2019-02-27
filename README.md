@@ -90,7 +90,7 @@ T.B.A = to-be-anounced
  [1]: http://www.twitter.com/maswiet
  [2]: http://www.facebook.com/mas.wiet.52
  [3]: https://plus.google.com/#
- [4]: http://#
- [5]: http://dribbble.com/#
+ [4]: https://www.tumblr.com/blog/maswiett
+ [5]: http://dribbble.com/maswiet
  [6]: http://www.github.com/maswiet
 
