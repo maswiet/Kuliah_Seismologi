@@ -26,26 +26,24 @@ Tujuan utama dari studi ini adalah memperkenalkan kepada mahasiswa hal yang mend
 - **Wiwit Suryanto** (it's me), (Sebelum Mid-Term)
 Follow me on [![alt text][1.1]][1]
 
-## Prasyarat: MFF 2921 (Mekanika Medium Kontinyu).
-**Silabus**: Tujuan utama dari studi ini adalah memperkenalkan kepada mahasiswa hal yang mendasar tentang seismologi (gempa bumi) untuk mengenal terminologinya dan memahami dasar-dasar teoritis maupun praktis yang mutlak diperlukan bila ingin bekerja dalam bidang pergempabumian. 
+## Prasyarat: 
+MFF 2921 (Mekanika Medium Kontinyu).
+
+## Kompetensi yang diberikan
+
+Menurut [buku panduan akademik S1 FMIPA UGM](http://mipa.ugm.ac.id/file/kurikulum-s1-s2-dan-s3/), (hal 47), kuliah Seismologi ini diharapkan dapat menyumbang 2 Kompetensi lulusan, diantaranya: G3 Ketrampilan Umum, G4/G5 Ketrampilan Khusus yang dijabarkan dalam 4 capaian pembelajaran, yaitu:
+1. **S1** - Mahasiswa akan dapat menjelaskan definisi seismologi dan wawasannya, posisi seismologi dalam geofisika, dan sejarah perkembangan teori elastisitas dan instalasi seismograf 
+2. **S2** - Mahasiswa dapat menemukan  fase gelombang P dan S dari gempa local, regional, dan jauh.
+3. **S3** - Mahasiswa dapat menghitung parameter sumber gempa bumi: waktu kejadian, posisi, kekuatan/energi gempa dan intesitas gempa.
+4. **S4** - Mahasiswa dapat menafsirkan jenis sumber gempabumi melalui penentuan mekanisme sumber menggunakan gelombang P dan proyeksi stereonet. 
+
+## Silabus: 
+Tujuan utama dari studi ini adalah memperkenalkan kepada mahasiswa hal yang mendasar tentang seismologi (gempa bumi) untuk mengenal terminologinya dan memahami dasar-dasar teoritis maupun praktis yang mutlak diperlukan bila ingin bekerja dalam bidang pergempabumian. 
 Materi kuliah ini adalah: Sejarah dan wawasan seismologi: perkembangan teori elastisitas dan seismologi, pengetahuan awal bumi bagian dalam; Instrumentasi seismologi: seismometer dan seismograf, problem perioda, kalibarasi seismometer; Gelombang seismik: jenis dan kecepatan gelombang seismik, hukum Snell, gelombang kepala, gelombang badan dari gempa jarak jauh/dekat/sedang, gelombang permukaan/mantel/kanal, gelombang mikroseismik; Parameter sumber dan penentuannya: episenter, hiposenter, magnitude dan energi, intensitas gempa; Mekanisme sumber gempa: penyelesaian bidang sesar dan parameter mekanisme sumber gempa.
 
 Setelah mengikuti kuliah ini mahasiswa diharapkan dapat menjelaskan dengan baik dan benar tentang kejadian gempa,
 ukuran gempa, intensitas gempa, lokasi gempa dan tindakan untuk mengurangi risiko bila terjadi
 gempa.
-
-## Kompetensi yang diberikan
-
-Menurut [buku panduan akademik S1 FMIPA UGM](http://mipa.ugm.ac.id/file/kurikulum-s1-s2-dan-s3/), (hal 47), kuliah MMK ini diharapkan dapat menyumbang 2 Kompetensi lulusan, diantaranya:
-1. G3 Ketrampilan Umum
-2. G4 Ketrampilan Khusus
-3. G5 Ketrampilan Khusus
-
-Ketiga kompetensi tersebut dijabarkan dalam 4 capaian pembelajaran, yaitu:
-1. **S1** - Mahasiswa akan dapat menjelaskan definisi seismologi dan wawasannya, posisi seismologi dalam geofisika, dan sejarah perkembangan teori elastisitas dan instalasi seismograf 
-2. **S2** - Mahasiswa dapat menemukan  fase gelombang P dan S dari gempa local, regional, dan jauh.
-3. **S3** - Mahasiswa dapat menghitung parameter sumber gempa bumi: waktu kejadian, posisi, kekuatan/energi gempa dan intesitas gempa.
-4. **S4** - Mahasiswa dapat menafsirkan jenis sumber gempabumi melalui penentuan mekanisme sumber menggunakan gelombang P dan proyeksi stereonet. 
 
 ## Jadwal
 
@@ -59,7 +57,7 @@ Berikut jadwal pertemuan setiap minggunya
 | Minggu-ke | Tema                                 | Materi |
 |:------:|:-------------------------------------|:-------:|
 | 1     | Sejarah dan Wawasan Seismologi | [Bahan Kuliah](https://nbviewer.jupyter.org/github/maswiet/Kuliah_Seismologi/blob/master/Sejarah_Wawasan_Seismologi.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maswiet/Kuliah_Seismologi/master?filepath=Sejarah_Wawasan_Seismologi.ipynb) |
-| 2     | Prinsip Kerja Seismometer | T.B.A |
+| 2     | Prinsip Kerja Seismometer | [Bahan Kuliah](https://nbviewer.jupyter.org/github/maswiet/Kuliah_Seismologi/blob/master/Prinsip_Seismometer.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maswiet/Kuliah_Seismologi/master?filepath=Prinsip_Seismometer.ipynb) |
 | 3    | Gempa Bumi (Tempat kejadian dan penyebabnya) | T.B.A |
 | 4     | Struktur Bagian dalam Bumi | T.B.A |
 | 5     | Gelombang Seismik | T.B.A |
@@ -92,7 +90,7 @@ T.B.A = to-be-anounced
  [1]: http://www.twitter.com/maswiet
  [2]: http://www.facebook.com/mas.wiet.52
  [3]: https://plus.google.com/#
- [4]: http://#
- [5]: http://dribbble.com/#
+ [4]: https://www.tumblr.com/blog/maswiett
+ [5]: http://dribbble.com/maswiet
  [6]: http://www.github.com/maswiet
 
