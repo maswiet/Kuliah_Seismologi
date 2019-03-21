@@ -57,7 +57,7 @@ Berikut jadwal pertemuan setiap minggunya
 | 2     | Prinsip Kerja Seismometer | [Bahan Kuliah](https://nbviewer.jupyter.org/github/maswiet/Kuliah_Seismologi/blob/master/Prinsip_Seismometer.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maswiet/Kuliah_Seismologi/master?filepath=Prinsip_Seismometer.ipynb) |
 | 3    | Gempa Bumi (Tempat kejadian dan penyebabnya) | [Bahan Kuliah](https://nbviewer.jupyter.org/github/maswiet/Kuliah_Seismologi/blob/master/SumberGempa.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maswiet/Kuliah_Seismologi/master?filepath=SumberGempa.ipynb) |
 | 4     | Struktur Bagian dalam Bumi | T.B.A |
-| 5     | Gelombang Seismik | [Bahan Kuliah](https://nbviewer.jupyter.org/github/maswiet/Kuliah_Seismologi/blob/master/Gel_Seismik.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maswiet/Kuliah_Seismologi/master?filepath=Gel_Seismik.ipynb) |
+| 5     | Gelombang Seismik | [Bahan Kuliah](https://nbviewer.jupyter.org/github/maswiet/Kuliah_Seismologi/blob/master/Gel_Seism.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maswiet/Kuliah_Seismologi/master?filepath=Gel_Seism.ipynb) |
 | 6     | Data Seismologi Digital | T.B.A |
 | 7     | Aplikasi Seismologi |  T.B.A |
 | 8     | Ujian Tengah Semester | [T.B.A](#) |
