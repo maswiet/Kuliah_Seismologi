@@ -17,8 +17,7 @@
 # Kuliah Seismologi (MFG3925)
 Kuliah Seismologi di Program Studi Geofisika, Departemen Fisika UGM, 2 SKS
 
-![Seismograms](https://chenseismolab.org/wp-content/uploads/2017/09/cropped-Header_image7_waveform_fitting_Chenetal2015JGR-1.png)
-## Aras Kompetensi
+![Seismograms](https://chenseismolab.org/wp-content/uploads/2017/09/cropped-Header_image7_waveform_fitting_Chenetal2015JGR-1.png [Bahan Kuliah](https://nbviewer.jupyter.org/github/maswiet/Kuliah_Seismologi/blob/master/SumberGempa.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maswiet/Kuliah_Seismologi/master?filepath=Gel_Seismik.ipynb) as Kompetensi
 Tujuan utama dari studi ini adalah memperkenalkan kepada mahasiswa hal yang mendasar tentang seismologi, tentang gempa bumi dalam rangka memahami terminologi, dasar-dasar teoritis maupun praktis yang mutlak diperlukan bila ingin bekerja dalam bidang gempabumi. Setelah mengikuti kuliah ini mahasiswa diharapkan dapat menjelaskan dengan baik dan benar tentang kejadian gempa, ukuran gempa, intensitas gempa, menentukan lokasi gempa, mekanisme sumber gempa dan tindakan untuk mengurangi risiko bila terjadi gempa.
 
 ## Pengampu
@@ -39,9 +38,7 @@ Menurut [buku panduan akademik S1 FMIPA UGM](http://mipa.ugm.ac.id/file/kurikulu
 
 ## Silabus: 
 Tujuan utama dari studi ini adalah memperkenalkan kepada mahasiswa hal yang mendasar tentang seismologi (gempa bumi) untuk mengenal terminologinya dan memahami dasar-dasar teoritis maupun praktis yang mutlak diperlukan bila ingin bekerja dalam bidang pergempabumian. 
-Materi kuliah ini adalah: Sejarah dan wawasan seismologi: perkembangan teori elastisitas dan seismologi, pengetahuan awal bumi bagian dalam; Instrumentasi seismologi: seismometer dan seismograf, problem perioda, kalibarasi seismometer; Gelombang seismik: jenis dan kecepatan gelombang seismik, hukum Snell, gelombang kepala, gelombang badan dari gempa jarak jauh/dekat/sedang, gelombang permukaan/mantel/kanal, gelombang mikroseismik; Parameter sumber dan penentuannya: episenter, hiposenter, magnitude dan energi, intensitas gempa; Mekanisme sumber gempa: penyelesaian bidang sesar dan parameter mekanisme sumber gempa.
-
-Setelah mengikuti kuliah ini mahasiswa diharapkan dapat menjelaskan dengan baik dan benar tentang kejadian gempa,
+Materi kuliah ini adalah: Sejarah dan wawasan seismologi: perkembangan teori elastisitas dan seismologi, pengetahuan awal bumi bagian dalam; Instrumentasi seismologi: seismometer dan seismograf, problem perioda, kalibarasi seismometer; Gelombang seismik: jenis dan kecepatan gelombang seismik, hukum Snell, gelombang kepala, gelombang badan dari gempa jarak jauh/dekat/sedang, gelombang permukaan/mantel/kanal, gelombang mikroseismik; Parameter sumber dan penentuannya: episenter, hiposenter, magnitude dan energi, intensitas gempa; Mekanisme sumber gempa: penyelesaian bidang sesar dan parameter mekanisme sumber gempa [Bahan Kuliah](https://nbviewer.jupyter.org/github/maswiet/Kuliah_Seismologi/blob/master/SumberGempa.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maswiet/Kuliah_Seismologi/master?filepath=Gel_Seismik.ipynb) lah mengikuti kuliah ini mahasiswa diharapkan dapat menjelaskan dengan baik dan benar tentang kejadian gempa,
 ukuran gempa, intensitas gempa, lokasi gempa dan tindakan untuk mengurangi risiko bila terjadi
 gempa.
 
@@ -60,7 +57,7 @@ Berikut jadwal pertemuan setiap minggunya
 | 2     | Prinsip Kerja Seismometer | [Bahan Kuliah](https://nbviewer.jupyter.org/github/maswiet/Kuliah_Seismologi/blob/master/Prinsip_Seismometer.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maswiet/Kuliah_Seismologi/master?filepath=Prinsip_Seismometer.ipynb) |
 | 3    | Gempa Bumi (Tempat kejadian dan penyebabnya) | [Bahan Kuliah](https://nbviewer.jupyter.org/github/maswiet/Kuliah_Seismologi/blob/master/SumberGempa.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maswiet/Kuliah_Seismologi/master?filepath=SumberGempa.ipynb) |
 | 4     | Struktur Bagian dalam Bumi | T.B.A |
-| 5     | Gelombang Seismik | T.B.A |
+| 5     | Gelombang Seismik | [Bahan Kuliah](https://nbviewer.jupyter.org/github/maswiet/Kuliah_Seismologi/blob/master/Gel_Seism.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maswiet/Kuliah_Seismologi/master?filepath=Gel_Seism.ipynb) |
 | 6     | Data Seismologi Digital | T.B.A |
 | 7     | Aplikasi Seismologi |  T.B.A |
 | 8     | Ujian Tengah Semester | [T.B.A](#) |
