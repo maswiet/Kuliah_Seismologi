@@ -38,16 +38,16 @@ Menurut [buku panduan akademik S1 FMIPA UGM](http://mipa.ugm.ac.id/file/kurikulu
 
 ## Silabus: 
 Tujuan utama dari studi ini adalah memperkenalkan kepada mahasiswa hal yang mendasar tentang seismologi (gempa bumi) untuk mengenal terminologinya dan memahami dasar-dasar teoritis maupun praktis yang mutlak diperlukan bila ingin bekerja dalam bidang pergempabumian. 
-Materi kuliah ini adalah: Sejarah dan wawasan seismologi: perkembangan teori elastisitas dan seismologi, pengetahuan awal bumi bagian dalam; Instrumentasi seismologi: seismometer dan seismograf, problem perioda, kalibarasi seismometer; Gelombang seismik: jenis dan kecepatan gelombang seismik, hukum Snell, gelombang kepala, gelombang badan dari gempa jarak jauh/dekat/sedang, gelombang permukaan/mantel/kanal, gelombang mikroseismik; Parameter sumber dan penentuannya: episenter, hiposenter, magnitude dan energi, intensitas gempa; Mekanisme sumber gempa: penyelesaian bidang sesar dan parameter mekanisme sumber gempa [Bahan Kuliah](https://nbviewer.jupyter.org/github/maswiet/Kuliah_Seismologi/blob/master/SumberGempa.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maswiet/Kuliah_Seismologi/master?filepath=Gel_Seismik.ipynb) lah mengikuti kuliah ini mahasiswa diharapkan dapat menjelaskan dengan baik dan benar tentang kejadian gempa,
+Materi kuliah ini adalah: Sejarah dan wawasan seismologi: perkembangan teori elastisitas dan seismologi, pengetahuan awal bumi bagian dalam; Instrumentasi seismologi: seismometer dan seismograf, problem perioda, kalibarasi seismometer; Gelombang seismik: jenis dan kecepatan gelombang seismik, hukum Snell, gelombang kepala, gelombang badan dari gempa jarak jauh/dekat/sedang, gelombang permukaan/mantel/kanal, gelombang mikroseismik; Parameter sumber dan penentuannya: episenter, hiposenter, magnitude dan energi, intensitas gempa; Mekanisme sumber gempa: penyelesaian bidang sesar dan parameter mekanisme sumber gempa. Setelah mengikuti kuliah ini mahasiswa diharapkan dapat menjelaskan dengan baik dan benar tentang kejadian gempa,
 ukuran gempa, intensitas gempa, lokasi gempa dan tindakan untuk mengurangi risiko bila terjadi
 gempa.
 
 ## Jadwal
 
 Jadwal kuliah satu kali dalam satu minggu, yaitu:
-- Kamis, jam 10:30 s.d. 12:10 di S1.101
+- Kamis, jam 07:30 s.d. 09:10 di  S1.102
 
-Kuliah geofisika "jaman now", atau istilah keren-nya Pendidikan Geofisika di era Industri 4.0 pastinya tidak lepas dari aplikasi, sehingga dalam kuliah Seismologi ini juga pendekatan secara komputasi akan dilakukan. Utamanya pada saat materi tentang aplikasi yang biasa dipakai di pekerjaan Seismologi. Hal ini didukung dengan semakin mudahnya akses terhadap bahasa pemrograman yang moderen, dinamis dan fleksibel untuk digunakan, misalnya bahasa [Python](http://python.org) atau MATLAB. Bahasa ini juga dimanjakan oleh komunitasnya, dengan fasilitas notebook, yang dikenal dengan Jupyter [Jupyter notebooks](http://jupyter.org/). Harapannya hal ini dapat memberikan motivasi tambahan mahasiswa Geofisika untuk menyenangi komputasi. Karena kalau Aku senang, maka aku Bisa ! 
+Pendidikan Geofisika di era Industri 4.0 pastinya tidak lepas dari aplikasi, sehingga dalam kuliah Seismologi ini juga pendekatan secara komputasi akan dilakukan. Utamanya pada saat materi tentang aplikasi yang biasa dipakai di pekerjaan Seismologi. Hal ini didukung dengan semakin mudahnya akses terhadap bahasa pemrograman yang moderen, dinamis dan fleksibel untuk digunakan, misalnya bahasa [Python](http://python.org) atau MATLAB. Bahasa ini juga dimanjakan oleh komunitasnya, dengan fasilitas notebook, yang dikenal dengan Jupyter [Jupyter notebooks](http://jupyter.org/). Harapannya hal ini dapat memberikan motivasi tambahan mahasiswa Geofisika untuk menyenangi komputasi. Karena kalau Aku senang, maka aku Bisa ! 
 
 Berikut jadwal pertemuan setiap minggunya
 
