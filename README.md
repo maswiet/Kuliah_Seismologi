@@ -45,7 +45,7 @@ gempa.
 ## Jadwal
 
 Jadwal kuliah satu kali dalam satu minggu, yaitu:
-- Jum'at, jam 13:30 s.d. 15:10 di  https://meet.google.com/lookup/a4ba4k4nyy?authuser=0&hs=179
+- Senin, jam 07:30 s.d. 09:10 di Ruang S1.301
 
 Pendidikan Geofisika di era Industri 4.0 pastinya tidak lepas dari aplikasi, sehingga dalam kuliah Seismologi ini juga pendekatan secara komputasi akan dilakukan. Utamanya pada saat materi tentang aplikasi yang biasa dipakai di pekerjaan Seismologi. Hal ini didukung dengan semakin mudahnya akses terhadap bahasa pemrograman yang moderen, dinamis dan fleksibel untuk digunakan, misalnya bahasa [Python](http://python.org) atau MATLAB. Bahasa ini juga dimanjakan oleh komunitasnya, dengan fasilitas notebook, yang dikenal dengan Jupyter [Jupyter notebooks](http://jupyter.org/). Harapannya hal ini dapat memberikan motivasi tambahan mahasiswa Geofisika untuk menyenangi komputasi. Karena kalau Aku senang, maka aku Bisa ! 
 
