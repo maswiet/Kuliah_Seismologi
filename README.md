@@ -59,28 +59,30 @@ Pendidikan Geofisika di era Industri 4.0 tidak lepas dari aplikasi, sehingga dal
 
 ## Jadwal pertemuan
 
-Rincian pokok bahasan, penugasan bacaan per subbab, dan aktivitas tiap minggu ada di [`RPS_Seismologi_2026.md`](RPS_Seismologi_2026.md).
+Struktur 14 minggu materi + 2 minggu ujian, mengikuti [`RPS_Seismologi_2026.md`](RPS_Seismologi_2026.md) — di sana ada rincian bacaan per subbab Shearer dan Stein & Wysession, aktivitas, dan kisi-kisi ujian tiap minggu.
 
-| Minggu | Tema | Pokok Bahasan | Materi |
-|:------:|:--|:--:|:--|
-| 1 | Sejarah dan Wawasan Seismologi | 1 | [Bahan Kuliah](https://nbviewer.jupyter.org/github/maswiet/Kuliah_Seismologi/blob/master/Sejarah_Wawasan_Seismologi.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maswiet/Kuliah_Seismologi/master?filepath=Sejarah_Wawasan_Seismologi.ipynb) |
-| 2 | Elastisitas dan Gelombang Badan (P & S) | 2 | [Bahan Kuliah](https://nbviewer.jupyter.org/github/maswiet/Kuliah_Seismologi/blob/master/Gel_Seism.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maswiet/Kuliah_Seismologi/master?filepath=Gel_Seism.ipynb) |
-| 3 | Gelombang Permukaan, Hukum Snell, dan Jalur Sinar | 2 | [Bahan Kuliah](https://nbviewer.jupyter.org/github/maswiet/Kuliah_Seismologi/blob/master/Gel_Seism.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maswiet/Kuliah_Seismologi/master?filepath=Gel_Seism.ipynb) |
-| 4 | Struktur Bagian Dalam Bumi | 3 | [Bahan Kuliah](https://nbviewer.jupyter.org/github/maswiet/Kuliah_Seismologi/blob/master/Struktur.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maswiet/Kuliah_Seismologi/master?filepath=Struktur.ipynb) |
-| 5 | Gempa Lokal, Regional, dan Teleseismik | 3 | [Bahan Kuliah](https://nbviewer.jupyter.org/github/maswiet/Kuliah_Seismologi/blob/master/SumberGempa.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maswiet/Kuliah_Seismologi/master?filepath=SumberGempa.ipynb) |
-| 6 | Prinsip Kerja Seismometer dan Seismograf | 4 | [Bahan Kuliah](https://nbviewer.jupyter.org/github/maswiet/Kuliah_Seismologi/blob/master/Prinsip_Seismometer.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maswiet/Kuliah_Seismologi/master?filepath=Prinsip_Seismometer.ipynb) |
-| 7 | Respons Instrumen, Kalibrasi, Jaringan Seismik, dan DAS | 4 | T.B.A |
-| 8 | **Ujian Tengah Semester** | — | — |
-| 9 | Anatomi Seismogram dan Identifikasi Fase | 5 | T.B.A |
-| 10 | Penentuan Episenter dan Hiposenter | 6 | T.B.A |
-| 11 | Magnitudo, Energi, dan Intensitas Gempa | 6 | T.B.A |
-| 12 | Gaya dan Bidang Sesar | 7 | T.B.A |
-| 13 | Tipe dan Interpretasi Mekanisme Sumber | 7 | T.B.A |
-| 14 | Statistika Gempa Bumi dan Risiko Seismik | 8 | T.B.A |
-| 15 | Monitoring, Peringatan Dini, dan Studi Kasus Indonesia | 8 | T.B.A |
-| 16 | **Ujian Akhir Semester** | — | — |
+| Mg | Tema | PB | CPMK | Materi |
+|:--:|:--|:--:|:--:|:--|
+| 1 | Ruang lingkup, sejarah, dan peran seismologi | 1 | 5 | [Bahan Kuliah](https://nbviewer.jupyter.org/github/maswiet/Kuliah_Seismologi/blob/master/Sejarah_Wawasan_Seismologi.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maswiet/Kuliah_Seismologi/master?filepath=Sejarah_Wawasan_Seismologi.ipynb) |
+| 2 | Tegangan, regangan, dan elastisitas | 1–2 | 1 | [Segera](#) |
+| 3 | Persamaan gelombang seismik; gelombang P dan S | 2 | 1 | [Bahan Kuliah](https://nbviewer.jupyter.org/github/maswiet/Kuliah_Seismologi/blob/master/Gel_Seism.ipynb) (bag. gelombang badan) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maswiet/Kuliah_Seismologi/master?filepath=Gel_Seism.ipynb) |
+| 4 | Hukum Snell, jalur sinar, dan *head wave* | 2 | 2 | [Segera](#) |
+| 5 | Koefisien refleksi–transmisi; gelombang permukaan dan dispersi | 2 | 1 | [Bahan Kuliah](https://nbviewer.jupyter.org/github/maswiet/Kuliah_Seismologi/blob/master/Gel_Seism.ipynb) (bag. gelombang permukaan) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maswiet/Kuliah_Seismologi/master?filepath=Gel_Seism.ipynb) |
+| 6 | Struktur dalam bumi dan fase seismik global | 3 | 2 | [Bahan Kuliah](https://nbviewer.jupyter.org/github/maswiet/Kuliah_Seismologi/blob/master/Struktur.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maswiet/Kuliah_Seismologi/master?filepath=Struktur.ipynb) |
+| 7 | Gempa lokal, regional, teleseismik; atenuasi dan mikroseismik | 3 | 2 | [Bahan Kuliah](https://nbviewer.jupyter.org/github/maswiet/Kuliah_Seismologi/blob/master/SumberGempa.ipynb) (bag. distribusi & tektonik) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maswiet/Kuliah_Seismologi/master?filepath=SumberGempa.ipynb) |
+| **8** | **Ujian Tengah Semester** | 1–3 | 1, 2, 5 | — |
+| 9 | Seismometer sebagai osilator harmonik teredam | 4 | 3 | [Bahan Kuliah](https://nbviewer.jupyter.org/github/maswiet/Kuliah_Seismologi/blob/master/Prinsip_Seismometer.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maswiet/Kuliah_Seismologi/master?filepath=Prinsip_Seismometer.ipynb) |
+| 10 | Jaringan seismik, perekaman digital, dan DAS | 4 | 3 | [Segera](#) |
+| 11 | Anatomi seismogram dan pemrosesan sinyal digital | 5 | 4 | [Segera](#) |
+| 12 | Penentuan episenter dan hiposenter | 6 | 4 | [Segera](#) |
+| 13 | Magnitudo, momen, energi, dan intensitas | 6 | 4 | [Segera](#) |
+| 14 | Mekanisme sumber: bidang sesar, *first motion*, *beach ball* | 7 | 4 | [Segera](#) |
+| 15 | Tensor momen, statistika gempa, monitoring dan mitigasi | 7–8 | 4, 5 | [Segera](#) |
+| **16** | **Ujian Akhir Semester** | 4–8 | 3, 4, 5 | — |
 
-T.B.A = *to be announced*
+**PB** = pokok bahasan silabus (1 Pendahuluan · 2 Gelombang Seismik · 3 Perambatan & Kejadian Gempa · 4 Instrumentasi · 5 Seismogram dan Anatominya · 6 Parameter Sumber · 7 Mekanisme Sumber · 8 Mitigasi Bencana). **CPMK** = capaian pembelajaran mata kuliah, lihat [RPS §2](RPS_Seismologi_2026.md).
+
+[Segera](#) = bahan belum disiapkan — tautan sementara, akan diganti notebook begitu materinya siap.
 
 ## Praktikum Seismologi (PAGF262412)
 
