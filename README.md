@@ -77,6 +77,7 @@ T.B.A = to-be-anounced
 1. Kulhanek, O., 1997: Anatomy of Seismograms, Elsevier, Netherland.
 2. Markus Bath (1979). Introduction to Seismology, Birkhauser Verlag.
 3. Waluyo (1998). Materi kuliah Seismologi, Program Studi Geofisika, FMIPA-UGM.
+4. Shearer 2019. Introduction to Seismology, Cambridge University Press
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/411QOuJzYAL._SY291_BO1,204,203,200_QL40_.jpg" width=128px height=161px alt='Newman'> <img src="https://images-na.ssl-images-amazon.com/images/I/51td5MftP2L._SX344_BO1,204,203,200_.jpg" width=128px height=161px alt='Mase'>
 
