@@ -35,6 +35,7 @@ Kurikulum 2026 memetakan capaian ini ke **4 Pilar CPL**: Sikap (CPL1), Penguasaa
 - [`RPS_Seismologi_2026.md`](RPS_Seismologi_2026.md) — Rencana Pembelajaran Semester: rincian 14 minggu materi + UTS/UAS, penugasan bacaan per subbab Shearer dan Stein & Wysession, kisi-kisi ujian, dan sistem penilaian.
 - [`Kurikulum_2026.md`](Kurikulum_2026.md) — bedah lengkap CPL, Taksonomi Bloom, dan posisi mata kuliah dalam Pohon Ilmu Geofisika.
 - [`Asesmen_Era_AI_Seismologi.md`](Asesmen_Era_AI_Seismologi.md) — aturan asesmen di kelas berbantuan AI: bobot 25/75, milestone kuantitatif, dan ambang pemicu viva. **Wajib dibaca mahasiswa di pertemuan pertama.**
+- [`skrip/README_M5.md`](skrip/README_M5.md) — perkakas Milestone M5: penyiap paket soal unik per mahasiswa dan pengoreksi otomatis.
 
 ## Pengampu
 
