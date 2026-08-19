@@ -3,7 +3,7 @@
 
 ---
 
-## 1. Diagnosis: yang rusak bukan mahasiswanya, tapi alat buktinya
+## 1. Diagnosis: 
 
 Selama puluhan tahun kita memakai satu asumsi diam-diam:
 
