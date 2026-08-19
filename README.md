@@ -74,7 +74,7 @@ Struktur 14 minggu materi + 2 minggu ujian, mengikuti [`RPS_Seismologi_2026.md`]
 | **8** | **Ujian Tengah Semester** | 1–3 | 1, 2, 5 | — |
 | 9 | Seismometer sebagai osilator harmonik teredam | 4 | 3 | [Bahan Kuliah](https://nbviewer.jupyter.org/github/maswiet/Kuliah_Seismologi/blob/master/Prinsip_Seismometer.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maswiet/Kuliah_Seismologi/master?filepath=Prinsip_Seismometer.ipynb) |
 | 10 | Jaringan seismik, perekaman digital, dan DAS | 4 | 3 | [Segera](#) |
-| 11 | Anatomi seismogram dan pemrosesan sinyal digital | 5 | 4 | [Segera](#) |
+| 11 | Anatomi seismogram dan pemrosesan sinyal digital | 5 | 4 | **[Materi Minggu 11](Minggu11_Anatomi_Seismogram.md)** · [Notebook praktik](Minggu11_Praktik.ipynb) |
 | 12 | Penentuan episenter dan hiposenter | 6 | 4 | [Segera](#) |
 | 13 | Magnitudo, momen, energi, dan intensitas | 6 | 4 | [Segera](#) |
 | 14 | Mekanisme sumber: bidang sesar, *first motion*, *beach ball* | 7 | 4 | [Segera](#) |
