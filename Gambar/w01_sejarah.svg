@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1240 545" width="1240" height="545" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">
+<rect width="1240" height="545" fill="#ffffff"/>
+<text x="620" y="36" text-anchor="middle" font-size="22" font-weight="700" fill="#0f172a">Empat Babak Sejarah Seismologi</text>
+<text x="620" y="60" text-anchor="middle" font-size="13.5" fill="#475569">Dari teori elastisitas murni, ke pengamatan, ke pemetaan interior bumi, lalu ke jaringan global</text>
+<line x1="22" y1="104" x2="1218" y2="104" stroke="#cbd5e1" stroke-width="3"/>
+<circle cx="167" cy="104" r="9" fill="#7c3aed"/>
+<line x1="167" y1="104" x2="167" y2="132" stroke="#7c3aed" stroke-width="2.5"/>
+<rect x="22" y="132" width="290" height="367" rx="12" fill="#f8fafc" stroke="#7c3aed" stroke-width="2"/>
+<path d="M 34 132 h 266 a 12 12 0 0 1 12 12 v 40 h -290 v -40 a 12 12 0 0 1 12 -12 z" fill="#7c3aed"/>
+<text x="167" y="154" text-anchor="middle" font-size="13.5" font-weight="700" fill="#ffffff">Fondasi Teori Elastisitas</text>
+<text x="167" y="174" text-anchor="middle" font-size="12" fill="#ffffff" opacity="0.9">1638 – 1830</text>
+<text x="38" y="212" font-size="12.5" font-weight="700" fill="#7c3aed">1638</text>
+<text x="38" y="230" font-size="12.5" fill="#1e293b">Galileo — deformasi balok berbeban</text>
+<text x="38" y="254" font-size="12.5" font-weight="700" fill="#7c3aed">1660</text>
+<text x="38" y="272" font-size="12.5" fill="#1e293b">Hooke — ut tensio, sic vis</text>
+<text x="38" y="296" font-size="12.5" font-weight="700" fill="#7c3aed">1821</text>
+<text x="38" y="314" font-size="12.5" fill="#1e293b">Navier — persamaan elastisitas</text>
+<text x="38" y="338" font-size="12.5" font-weight="700" fill="#7c3aed">1822</text>
+<text x="38" y="356" font-size="12.5" fill="#1e293b">Cauchy — tensor tegangan</text>
+<text x="38" y="380" font-size="12.5" font-weight="700" fill="#7c3aed">1828</text>
+<text x="38" y="398" font-size="12.5" fill="#1e293b">Poisson — ramalkan gelombang P dan S</text>
+<circle cx="465" cy="104" r="9" fill="#0891b2"/>
+<line x1="465" y1="104" x2="465" y2="132" stroke="#0891b2" stroke-width="2.5"/>
+<rect x="320" y="132" width="290" height="367" rx="12" fill="#f8fafc" stroke="#0891b2" stroke-width="2"/>
+<path d="M 332 132 h 266 a 12 12 0 0 1 12 12 v 40 h -290 v -40 a 12 12 0 0 1 12 -12 z" fill="#0891b2"/>
+<text x="465" y="154" text-anchor="middle" font-size="13.5" font-weight="700" fill="#ffffff">Seismologi Jadi Ilmu Pengamatan</text>
+<text x="465" y="174" text-anchor="middle" font-size="12" fill="#ffffff" opacity="0.9">1755 – 1889</text>
+<text x="336" y="212" font-size="12.5" font-weight="700" fill="#0891b2">1755</text>
+<text x="336" y="230" font-size="12.5" fill="#1e293b">Gempa &amp; tsunami Lisbon</text>
+<text x="336" y="254" font-size="12.5" font-weight="700" fill="#0891b2">1760</text>
+<text x="336" y="272" font-size="12.5" fill="#1e293b">Michell — gempa = gelombang elastik</text>
+<text x="336" y="296" font-size="12.5" font-weight="700" fill="#0891b2">1857</text>
+<text x="336" y="314" font-size="12.5" fill="#1e293b">Mallet — gempa Napoli; pencipta</text>
+<text x="336" y="332" font-size="12.5" fill="#1e293b">istilah seismology dan epicentre</text>
+<text x="336" y="359" font-size="12.5" font-weight="700" fill="#0891b2">1880</text>
+<text x="336" y="377" font-size="12.5" fill="#1e293b">Milne, Ewing, Gray — seismograf</text>
+<text x="336" y="395" font-size="12.5" fill="#1e293b">modern di Jepang</text>
+<text x="336" y="422" font-size="12.5" font-weight="700" fill="#0891b2">1889</text>
+<text x="336" y="440" font-size="12.5" fill="#1e293b">von Rebeur-Paschwitz — rekaman</text>
+<text x="336" y="458" font-size="12.5" fill="#1e293b">teleseismik pertama</text>
+<circle cx="763" cy="104" r="9" fill="#059669"/>
+<line x1="763" y1="104" x2="763" y2="132" stroke="#059669" stroke-width="2.5"/>
+<rect x="618" y="132" width="290" height="367" rx="12" fill="#f8fafc" stroke="#059669" stroke-width="2"/>
+<path d="M 630 132 h 266 a 12 12 0 0 1 12 12 v 40 h -290 v -40 a 12 12 0 0 1 12 -12 z" fill="#059669"/>
+<text x="763" y="154" text-anchor="middle" font-size="13.5" font-weight="700" fill="#ffffff">Membedah Interior Bumi</text>
+<text x="763" y="174" text-anchor="middle" font-size="12" fill="#ffffff" opacity="0.9">1897 – 1936</text>
+<text x="634" y="212" font-size="12.5" font-weight="700" fill="#059669">1897</text>
+<text x="634" y="230" font-size="12.5" fill="#1e293b">Oldham — pisahkan P, S, permukaan</text>
+<text x="634" y="254" font-size="12.5" font-weight="700" fill="#059669">1906</text>
+<text x="634" y="272" font-size="12.5" fill="#1e293b">Oldham — bumi punya inti</text>
+<text x="634" y="296" font-size="12.5" font-weight="700" fill="#059669">1909</text>
+<text x="634" y="314" font-size="12.5" fill="#1e293b">Mohorovi&#269;i&#263; — diskontinuitas Moho</text>
+<text x="634" y="338" font-size="12.5" font-weight="700" fill="#059669">1912</text>
+<text x="634" y="356" font-size="12.5" fill="#1e293b">Gutenberg — inti pada 2900 km</text>
+<text x="634" y="380" font-size="12.5" font-weight="700" fill="#059669">1935</text>
+<text x="634" y="398" font-size="12.5" fill="#1e293b">Richter — skala magnitudo</text>
+<text x="634" y="422" font-size="12.5" font-weight="700" fill="#059669">1936</text>
+<text x="634" y="440" font-size="12.5" fill="#1e293b">Lehmann — inti dalam yang padat</text>
+<circle cx="1061" cy="104" r="9" fill="#ea580c"/>
+<line x1="1061" y1="104" x2="1061" y2="132" stroke="#ea580c" stroke-width="2.5"/>
+<rect x="916" y="132" width="290" height="367" rx="12" fill="#f8fafc" stroke="#ea580c" stroke-width="2"/>
+<path d="M 928 132 h 266 a 12 12 0 0 1 12 12 v 40 h -290 v -40 a 12 12 0 0 1 12 -12 z" fill="#ea580c"/>
+<text x="1061" y="154" text-anchor="middle" font-size="13.5" font-weight="700" fill="#ffffff">Era Jaringan, Digital, dan AI</text>
+<text x="1061" y="174" text-anchor="middle" font-size="12" fill="#ffffff" opacity="0.9">1960 – sekarang</text>
+<text x="932" y="212" font-size="12.5" font-weight="700" fill="#ea580c">1960</text>
+<text x="932" y="230" font-size="12.5" fill="#1e293b">Gempa Chile M9,5 — mode normal</text>
+<text x="932" y="254" font-size="12.5" font-weight="700" fill="#ea580c">1961</text>
+<text x="932" y="272" font-size="12.5" fill="#1e293b">WWSSN — jaringan global pertama</text>
+<text x="932" y="296" font-size="12.5" font-weight="700" fill="#ea580c">1980an</text>
+<text x="932" y="314" font-size="12.5" fill="#1e293b">Tomografi seismik; broadband digital</text>
+<text x="932" y="338" font-size="12.5" font-weight="700" fill="#ea580c">2004</text>
+<text x="932" y="356" font-size="12.5" fill="#1e293b">Aceh-Andaman M9,1 &#8594; InaTEWS</text>
+<text x="932" y="380" font-size="12.5" font-weight="700" fill="#ea580c">2010an</text>
+<text x="932" y="398" font-size="12.5" fill="#1e293b">Ambient noise; pembelajaran mesin</text>
+<text x="932" y="422" font-size="12.5" font-weight="700" fill="#ea580c">2020an</text>
+<text x="932" y="440" font-size="12.5" fill="#1e293b">DAS — serat optik jadi sensor</text>
+<text x="620" y="529" text-anchor="middle" font-size="12.5" fill="#64748b">Perhatikan polanya: teori mendahului alat hampir 250 tahun — seismologi baru jadi ilmu kuantitatif setelah seismograf ada.</text>
+</svg>

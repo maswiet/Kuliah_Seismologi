@@ -34,7 +34,7 @@ Kurikulum 2026 memetakan capaian ini ke **4 Pilar CPL**: Sikap (CPL1), Penguasaa
 
 - [`RPS_Seismologi_2026.md`](RPS_Seismologi_2026.md) — Rencana Pembelajaran Semester: rincian 14 minggu materi + UTS/UAS, penugasan bacaan per subbab Shearer dan Stein & Wysession, kisi-kisi ujian, dan sistem penilaian.
 - [`Kurikulum_2026.md`](Kurikulum_2026.md) — bedah lengkap CPL, Taksonomi Bloom, dan posisi mata kuliah dalam Pohon Ilmu Geofisika.
-- [`Asesmen_Era_AI_Seismologi.mdx`](Asesmen_Era_AI_Seismologi.mdx) — aturan asesmen di kelas berbantuan AI: bobot 25/75, milestone kuantitatif, dan ambang pemicu viva. **Wajib dibaca mahasiswa di pertemuan pertama.**
+- [`Asesmen_Era_AI_Seismologi.md`](Asesmen_Era_AI_Seismologi.md) — aturan asesmen di kelas berbantuan AI: bobot 25/75, milestone kuantitatif, dan ambang pemicu viva. **Wajib dibaca mahasiswa di pertemuan pertama.**
 
 ## Pengampu
 
@@ -64,7 +64,7 @@ Struktur 14 minggu materi + 2 minggu ujian, mengikuti [`RPS_Seismologi_2026.md`]
 
 | Mg | Tema | PB | CPMK | Materi |
 |:--:|:--|:--:|:--:|:--|
-| 1 | Ruang lingkup, sejarah, dan peran seismologi | 1 | 5 | [Bahan Kuliah](https://nbviewer.jupyter.org/github/maswiet/Kuliah_Seismologi/blob/master/Sejarah_Wawasan_Seismologi.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maswiet/Kuliah_Seismologi/master?filepath=Sejarah_Wawasan_Seismologi.ipynb) |
+| 1 | Ruang lingkup, sejarah, dan peran seismologi | 1 | 5 | **[Materi Minggu 1](Minggu01_Pendahuluan_Seismologi.md)** · [Bahan Kuliah](https://nbviewer.jupyter.org/github/maswiet/Kuliah_Seismologi/blob/master/Sejarah_Wawasan_Seismologi.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maswiet/Kuliah_Seismologi/master?filepath=Sejarah_Wawasan_Seismologi.ipynb) |
 | 2 | Tegangan, regangan, dan elastisitas | 1–2 | 1 | [Segera](#) |
 | 3 | Persamaan gelombang seismik; gelombang P dan S | 2 | 1 | [Bahan Kuliah](https://nbviewer.jupyter.org/github/maswiet/Kuliah_Seismologi/blob/master/Gel_Seism.ipynb) (bag. gelombang badan) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maswiet/Kuliah_Seismologi/master?filepath=Gel_Seism.ipynb) |
 | 4 | Hukum Snell, jalur sinar, dan *head wave* | 2 | 2 | [Segera](#) |
