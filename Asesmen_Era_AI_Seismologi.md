@@ -15,11 +15,10 @@ AI memutus rantai itu. Sekarang artefak murah dan pemahaman mahal. **Laporan sem
 
 Konsekuensinya penting: masalahnya **bukan** "bagaimana mendeteksi AI". Itu jalan buntu (§7). Masalahnya adalah **membangun ulang alat bukti** — memindahkan asesmen ke hal-hal yang bantuan AI tidak bisa menggantikannya.
 
-Kabar baiknya: sekali Anda menerima ini, Anda justru bisa membuka AI selebar-lebarnya seperti yang Anda inginkan. Karena yang dinilai bukan lagi artefaknya.
 
 ---
 
-## 2. Prinsip inti: pisahkan **produk** dari **bukti**
+## 2. Prinsip inti: 
 
 | | Produk | Bukti |
 |:--|:--|:--|
@@ -34,7 +33,7 @@ Kabar baiknya: sekali Anda menerima ini, Anda justru bisa membuka AI selebar-leb
 
 Begitu bobotnya dibalik, insentif menyuruh AI mengerjakan tugas runtuh dengan sendirinya. Tugas berubah fungsi menjadi latihan, bukan setoran. Mahasiswa yang menyerahkan pekerjaan AI tanpa memahaminya akan **gagal di verifikasi 75%-nya sendiri** — tanpa perlu tuduhan, tanpa perlu detektor, tanpa perlu konfrontasi.
 
-Ini juga adil: mahasiswa yang memakai AI untuk *benar-benar belajar* akan lolos verifikasi dengan mudah. Persis perilaku yang ingin Anda dorong.
+Ini juga adil: mahasiswa yang memakai AI untuk *benar-benar belajar* akan lolos verifikasi dengan mudah.
 
 ---
 
@@ -54,7 +53,6 @@ Diurutkan dari yang paling kuat. Kolom **Tahan-AI** menilai seberapa sulit bantu
 ---
 
 ### Instrumen 1 — Data unik per mahasiswa
-**Ini keunggulan tak adil bidang seismologi. Manfaatkan habis-habisan.**
 
 Berbeda dengan esai atau soal buku teks, seismologi punya persediaan **tak terbatas soal yang tiap jawabannya berbeda dan ground-truth-nya publik**. Beri tiap mahasiswa event ID berlainan dari katalog USGS/ISC/BMKG. AI bisa menjelaskan *metodenya*, tapi tidak bisa mengetahui angka *milik dia*.
 
@@ -71,7 +69,7 @@ Yang diukur: **galat absolut terhadap katalog rujukan.**
 | *Strike*, *rake* | ± 25° | Solusi *first-motion* memang berketidakpastian besar |
 | Residual *picking* P (lokal) | RMS ≤ 0,5 s | |
 
-**Kunci pelaksanaan:** siapkan satu skrip Python penilai yang menarik nilai katalog via FDSN web service dan membandingkan dengan CSV setoran mahasiswa. Investasi ± 1 hari, lalu 71 mahasiswa terkoreksi dalam hitungan detik, tiap semester.
+**Kunci pelaksanaan:** siapkan satu skrip Python penilai yang menarik nilai katalog via FDSN web service dan membandingkan dengan CSV setoran mahasiswa. Investasi ± 1 hari.
 
 **Bonus:** mahasiswa boleh dan sebaiknya memakai AI untuk membantu koding. Yang dinilai kebenaran angka atas datanya sendiri — dan untuk sampai ke sana dia harus paham apa yang dilakukan kodenya.
 
@@ -199,8 +197,7 @@ Terikat pada CPMK yang sudah ditetapkan di `RPS_Seismologi_2026.md`.
 | **M7** | 15 | 5 | Statistika, monitoring, mitigasi | 3, 5 | Presentasi + viva ≥ 6/9 |
 | — | 16 | 3, 4, 5 | **UAS** — integratif | 2 (murni) | $\ge 60$ |
 
-**M5 dan M6 adalah milestone terpenting** — di sanalah data unik, viva, dan kalibrasi bertemu. Kalau waktu Anda terbatas, jalankan penuh hanya pada dua ini.
-
+**M5 dan M6 adalah milestone terpenting** — di sanalah data unik, viva, dan kalibrasi bertemu. 
 ---
 
 ## 5. Papan pantau kuantitatif
@@ -281,7 +278,6 @@ Dengan rancangan ini, keadaan tersebut menjadi **mustahil disembunyikan dan tida
 - Selang ketidakpastiannya akan terlalu sempit, karena ia tidak tahu apa yang tidak ia ketahui.
 - Dan pada viva, ia tidak akan bisa menjelaskan mengapa ia memilih *corner frequency* itu.
 
-Anda tidak perlu menangkap siapa pun. Anda hanya perlu **berhenti menerima artefak sebagai bukti** — dan sistem ini yang menyediakan buktinya.
 
 ---
 
