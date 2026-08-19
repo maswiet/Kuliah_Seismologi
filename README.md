@@ -77,7 +77,7 @@ Struktur 14 minggu materi + 2 minggu ujian, mengikuti [`RPS_Seismologi_2026.md`]
 | 10 | Jaringan seismik, perekaman digital, dan DAS | 4 | 3 | [Segera](#) |
 | 11 | Anatomi seismogram dan pemrosesan sinyal digital | 5 | 4 | **[Materi Minggu 11](Minggu11_Anatomi_Seismogram.md)** · [Notebook praktik](Minggu11_Praktik.ipynb) |
 | 12 | Penentuan episenter dan hiposenter | 6 | 4 | **[Materi Minggu 12](Minggu12_Lokasi_Gempa.md)** · [Notebook praktik](Minggu12_Praktik.ipynb) |
-| 13 | Magnitudo, momen, energi, dan intensitas | 6 | 4 | [Segera](#) |
+| 13 | Magnitudo, momen, energi, dan intensitas | 6 | 4 | **[Materi Minggu 13](Minggu13_Magnitudo_Energi.md)** · [Notebook praktik](Minggu13_Praktik.ipynb) |
 | 14 | Mekanisme sumber: bidang sesar, *first motion*, *beach ball* | 7 | 4 | [Segera](#) |
 | 15 | Tensor momen, statistika gempa, monitoring dan mitigasi | 7–8 | 4, 5 | [Segera](#) |
 | **16** | **Ujian Akhir Semester** | 4–8 | 3, 4, 5 | — |
