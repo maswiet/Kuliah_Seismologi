@@ -30,7 +30,10 @@ Kurikulum 2026 memetakan capaian ini ke **4 Pilar CPL**: Sikap (CPL1), Penguasaa
 | CPL3 — Keterampilan Umum | Sedang | **Kuat** |
 | CPL4.1 — Keterampilan Khusus | Lemah | Sedang |
 
-📄 **Bedah lengkap CPL, Taksonomi Bloom, dan posisi mata kuliah dalam Pohon Ilmu Geofisika → [`Kurikulum_2026.md`](Kurikulum_2026.md)**
+📄 **Dokumen pendukung**
+
+- [`RPS_Seismologi_2026.md`](RPS_Seismologi_2026.md) — Rencana Pembelajaran Semester: rincian 14 minggu materi + UTS/UAS, penugasan bacaan per subbab Shearer dan Stein & Wysession, kisi-kisi ujian, dan sistem penilaian.
+- [`Kurikulum_2026.md`](Kurikulum_2026.md) — bedah lengkap CPL, Taksonomi Bloom, dan posisi mata kuliah dalam Pohon Ilmu Geofisika.
 
 ## Pengampu
 
@@ -55,6 +58,8 @@ Kurikulum 2026 memetakan capaian ini ke **4 Pilar CPL**: Sikap (CPL1), Penguasaa
 Pendidikan Geofisika di era Industri 4.0 tidak lepas dari aplikasi, sehingga dalam kuliah Seismologi ini pendekatan komputasi juga dilakukan — terutama pada materi tentang perangkat yang biasa dipakai dalam pekerjaan seismologi. Hal ini didukung oleh semakin mudahnya akses terhadap bahasa pemrograman modern, dinamis, dan fleksibel seperti [Python](http://python.org) atau MATLAB, lengkap dengan fasilitas [Jupyter notebook](http://jupyter.org/). Harapannya, hal ini memberi motivasi tambahan bagi mahasiswa Geofisika untuk menyenangi komputasi. Karena kalau aku senang, maka aku bisa!
 
 ## Jadwal pertemuan
+
+Rincian pokok bahasan, penugasan bacaan per subbab, dan aktivitas tiap minggu ada di [`RPS_Seismologi_2026.md`](RPS_Seismologi_2026.md).
 
 | Minggu | Tema | Pokok Bahasan | Materi |
 |:------:|:--|:--:|:--|
