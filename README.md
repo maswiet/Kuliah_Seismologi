@@ -1,94 +1,125 @@
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][3.1]][3]
-[![alt text][4.1]][4]
-[![alt text][5.1]][5]
-[![alt text][6.1]][6]
+# Seismologi — PAGF262413
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
-[4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
-[5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
-[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+**Program Studi Sarjana Geofisika, Departemen Fisika, FMIPA UGM**
+Mata kuliah wajib Semester IV, Kurikulum 2026 · 2 SKS
 
+![Infografis Seismologi Geofisika UGM](Gambar/infografis_seismologi_2026.png)
 
+| | |
+|:--|:--|
+| **Kode** | `PAGF262413` (teori) · `PAGF262412` (praktikum) |
+| **Bobot** | 2 SKS teori + 1 SKS praktikum |
+| **Semester** | IV — wajib |
+| **Rumpun** | Ilmu Geofisika |
+| **Kuliah** | Senin, 07:15 – 08:55 · Ruang Kelas 209 |
+| **Praktikum** | Kamis, 10:15 – 11:55 · Daring |
+| **Prasyarat** | Gelombang (`PADF262208`) dan Mekanika Medium Kontinu (`PAGF262307`) |
 
-# Kuliah Seismologi (MFG3925)
-Kuliah Seismologi di Program Studi Geofisika, Departemen Fisika UGM, 2 SKS
+> Dalam Kurikulum 2026 Seismologi diajarkan dalam **dua bentuk kegiatan yang saling terintegrasi**: kuliah teori dan praktikum. Praktikum wajib diambil bersamaan (*co-requisite*) atau setelah menempuh kuliah teori.
 
-![Seismograms](https://chenseismolab.org/wp-content/uploads/2017/09/cropped-Header_image7_waveform_fitting_Chenetal2015JGR-1.png) Kompetensi
-Tujuan utama dari studi ini adalah memperkenalkan kepada mahasiswa hal yang mendasar tentang seismologi, tentang gempa bumi dalam rangka memahami terminologi, dasar-dasar teoritis maupun praktis yang mutlak diperlukan bila ingin bekerja dalam bidang gempabumi. Setelah mengikuti kuliah ini mahasiswa diharapkan dapat menjelaskan dengan baik dan benar tentang kejadian gempa, ukuran gempa, intensitas gempa, menentukan lokasi gempa, mekanisme sumber gempa dan tindakan untuk mengurangi risiko bila terjadi gempa.
+## Kompetensi
+
+Tujuan utama studi ini adalah memperkenalkan kepada mahasiswa hal yang mendasar tentang seismologi dan gempa bumi — terminologi, dasar teoretis maupun praktis yang mutlak diperlukan bila ingin bekerja dalam bidang kegempaan. Setelah mengikuti kuliah ini mahasiswa diharapkan dapat menjelaskan dengan baik dan benar tentang kejadian gempa, ukuran gempa, intensitas gempa, menentukan lokasi gempa, mekanisme sumber gempa, dan tindakan untuk mengurangi risiko bila terjadi gempa.
+
+Kurikulum 2026 memetakan capaian ini ke **4 Pilar CPL**: Sikap (CPL1), Penguasaan Pengetahuan (CPL2), Keterampilan Umum (CPL3), serta Keterampilan Khusus dan Manajerial (CPL4).
+
+| Pilar CPL | Teori (PAGF262413) | Praktikum (PAGF262412) |
+|:--|:--:|:--:|
+| CPL1 — Sikap | Sedang | **Kuat** |
+| CPL2 — Penguasaan Pengetahuan | **Kuat** | Sedang |
+| CPL3 — Keterampilan Umum | Sedang | **Kuat** |
+| CPL4.1 — Keterampilan Khusus | Lemah | Sedang |
+
+📄 **Bedah lengkap CPL, Taksonomi Bloom, dan posisi mata kuliah dalam Pohon Ilmu Geofisika → [`Kurikulum_2026.md`](Kurikulum_2026.md)**
 
 ## Pengampu
-- Dr.rer.nat. Ade Anggraini, M.T (Setelah Ujian Mid-Term)
-- **Wiwit Suryanto** (it's me), (Sebelum Mid-Term)
-Follow me on [![alt text][1.1]][1]
 
-## Prasyarat: 
-MFF 2921 (Mekanika Medium Kontinyu).
+- **Dr.rer.nat. Wiwit Suryanto, S.Si., M.Si.** — [@maswiet](https://github.com/maswiet)
+- Dr.rer.nat. Ade Anggraini, M.T.
 
-## Kompetensi yang diberikan
+## Silabus
 
-Menurut [buku panduan akademik S1 FMIPA UGM](http://mipa.ugm.ac.id/file/kurikulum-s1-s2-dan-s3/), (hal 47), kuliah Seismologi ini diharapkan dapat menyumbang 2 Kompetensi lulusan, diantaranya: G3 Ketrampilan Umum, G4/G5 Ketrampilan Khusus yang dijabarkan dalam 4 capaian pembelajaran, yaitu:
-1. **S1** - Mahasiswa akan dapat menjelaskan definisi seismologi dan wawasannya, posisi seismologi dalam geofisika, dan sejarah perkembangan teori elastisitas dan instalasi seismograf 
-2. **S2** - Mahasiswa dapat menemukan  fase gelombang P dan S dari gempa local, regional, dan jauh.
-3. **S3** - Mahasiswa dapat menghitung parameter sumber gempa bumi: waktu kejadian, posisi, kekuatan/energi gempa dan intesitas gempa.
-4. **S4** - Mahasiswa dapat menafsirkan jenis sumber gempabumi melalui penentuan mekanisme sumber menggunakan gelombang P dan proyeksi stereonet. 
+![Seismograms](https://chenseismolab.org/wp-content/uploads/2017/09/cropped-Header_image7_waveform_fitting_Chenetal2015JGR-1.png)
 
-## Silabus: 
-Tujuan utama dari studi ini adalah memperkenalkan kepada mahasiswa hal yang mendasar tentang seismologi (gempa bumi) untuk mengenal terminologinya dan memahami dasar-dasar teoritis maupun praktis yang mutlak diperlukan bila ingin bekerja dalam bidang pergempabumian. 
-Materi kuliah ini adalah: Sejarah dan wawasan seismologi: perkembangan teori elastisitas dan seismologi, pengetahuan awal bumi bagian dalam; Instrumentasi seismologi: seismometer dan seismograf, problem perioda, kalibarasi seismometer; Gelombang seismik: jenis dan kecepatan gelombang seismik, hukum Snell, gelombang kepala, gelombang badan dari gempa jarak jauh/dekat/sedang, gelombang permukaan/mantel/kanal, gelombang mikroseismik; Parameter sumber dan penentuannya: episenter, hiposenter, magnitude dan energi, intensitas gempa; Mekanisme sumber gempa: penyelesaian bidang sesar dan parameter mekanisme sumber gempa. Setelah mengikuti kuliah ini mahasiswa diharapkan dapat menjelaskan dengan baik dan benar tentang kejadian gempa,
-ukuran gempa, intensitas gempa, lokasi gempa dan tindakan untuk mengurangi risiko bila terjadi
-gempa.
+1. **Pendahuluan** — ruang lingkup, sejarah perkembangan seismologi dan elastisitas, serta peran seismologi dalam kebencanaan dan pembangunan berkelanjutan.
+2. **Gelombang Seismik** — teori gelombang badan (P dan S), gelombang permukaan (Love dan Rayleigh), kecepatan gelombang, sifat medium, Hukum Snell, *head wave*, dan jalur sinar seismik.
+3. **Perambatan Gelombang & Kejadian Gempa** — analisis gempa lokal, regional, dan teleseismik; pengaruh struktur bumi terhadap sinyal seismik; gelombang mantel, kanal, dan mikroseismik.
+4. **Instrumentasi Seismologi** — prinsip kerja seismometer dan seismograf (analog & digital), respons instrumen, kalibrasi, jaringan seismik, dan DAS (*Distributed Acoustic Sensing*).
+5. **Seismogram dan Anatominya** — analisis komponen seismogram (Z, N, E), identifikasi fase gelombang (P, S, permukaan), serta karakteristik amplitudo, frekuensi, dan durasi sinyal.
+6. **Parameter Sumber Gempa** — penentuan lokasi episenter dan hiposenter, magnitudo, energi, serta intensitas gempa bumi beserta dampaknya.
+7. **Mekanisme Sumber Gempa** — konsep gaya dan bidang sesar, tipe-tipe mekanisme sumber gempa, dan interpretasinya secara konseptual.
+8. **Seismologi dan Mitigasi Bencana** — statistika gempa bumi, hubungan seismologi dengan risiko gempa, peran sistem monitoring dan peringatan dini, serta studi kasus gempa bumi di Indonesia.
 
-## Jadwal
+## Pendekatan komputasi
 
-Jadwal kuliah satu kali dalam satu minggu, yaitu:
-- Senin, jam 07:30 s.d. 09:10 di Ruang S1.301
+Pendidikan Geofisika di era Industri 4.0 tidak lepas dari aplikasi, sehingga dalam kuliah Seismologi ini pendekatan komputasi juga dilakukan — terutama pada materi tentang perangkat yang biasa dipakai dalam pekerjaan seismologi. Hal ini didukung oleh semakin mudahnya akses terhadap bahasa pemrograman modern, dinamis, dan fleksibel seperti [Python](http://python.org) atau MATLAB, lengkap dengan fasilitas [Jupyter notebook](http://jupyter.org/). Harapannya, hal ini memberi motivasi tambahan bagi mahasiswa Geofisika untuk menyenangi komputasi. Karena kalau aku senang, maka aku bisa!
 
-Pendidikan Geofisika di era Industri 4.0 pastinya tidak lepas dari aplikasi, sehingga dalam kuliah Seismologi ini juga pendekatan secara komputasi akan dilakukan. Utamanya pada saat materi tentang aplikasi yang biasa dipakai di pekerjaan Seismologi. Hal ini didukung dengan semakin mudahnya akses terhadap bahasa pemrograman yang moderen, dinamis dan fleksibel untuk digunakan, misalnya bahasa [Python](http://python.org) atau MATLAB. Bahasa ini juga dimanjakan oleh komunitasnya, dengan fasilitas notebook, yang dikenal dengan Jupyter [Jupyter notebooks](http://jupyter.org/). Harapannya hal ini dapat memberikan motivasi tambahan mahasiswa Geofisika untuk menyenangi komputasi. Karena kalau Aku senang, maka aku Bisa ! 
+## Jadwal pertemuan
 
-Berikut jadwal pertemuan setiap minggunya
+| Minggu | Tema | Pokok Bahasan | Materi |
+|:------:|:--|:--:|:--|
+| 1 | Sejarah dan Wawasan Seismologi | 1 | [Bahan Kuliah](https://nbviewer.jupyter.org/github/maswiet/Kuliah_Seismologi/blob/master/Sejarah_Wawasan_Seismologi.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maswiet/Kuliah_Seismologi/master?filepath=Sejarah_Wawasan_Seismologi.ipynb) |
+| 2 | Elastisitas dan Gelombang Badan (P & S) | 2 | [Bahan Kuliah](https://nbviewer.jupyter.org/github/maswiet/Kuliah_Seismologi/blob/master/Gel_Seism.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maswiet/Kuliah_Seismologi/master?filepath=Gel_Seism.ipynb) |
+| 3 | Gelombang Permukaan, Hukum Snell, dan Jalur Sinar | 2 | [Bahan Kuliah](https://nbviewer.jupyter.org/github/maswiet/Kuliah_Seismologi/blob/master/Gel_Seism.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maswiet/Kuliah_Seismologi/master?filepath=Gel_Seism.ipynb) |
+| 4 | Struktur Bagian Dalam Bumi | 3 | [Bahan Kuliah](https://nbviewer.jupyter.org/github/maswiet/Kuliah_Seismologi/blob/master/Struktur.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maswiet/Kuliah_Seismologi/master?filepath=Struktur.ipynb) |
+| 5 | Gempa Lokal, Regional, dan Teleseismik | 3 | [Bahan Kuliah](https://nbviewer.jupyter.org/github/maswiet/Kuliah_Seismologi/blob/master/SumberGempa.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maswiet/Kuliah_Seismologi/master?filepath=SumberGempa.ipynb) |
+| 6 | Prinsip Kerja Seismometer dan Seismograf | 4 | [Bahan Kuliah](https://nbviewer.jupyter.org/github/maswiet/Kuliah_Seismologi/blob/master/Prinsip_Seismometer.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maswiet/Kuliah_Seismologi/master?filepath=Prinsip_Seismometer.ipynb) |
+| 7 | Respons Instrumen, Kalibrasi, Jaringan Seismik, dan DAS | 4 | T.B.A |
+| 8 | **Ujian Tengah Semester** | — | — |
+| 9 | Anatomi Seismogram dan Identifikasi Fase | 5 | T.B.A |
+| 10 | Penentuan Episenter dan Hiposenter | 6 | T.B.A |
+| 11 | Magnitudo, Energi, dan Intensitas Gempa | 6 | T.B.A |
+| 12 | Gaya dan Bidang Sesar | 7 | T.B.A |
+| 13 | Tipe dan Interpretasi Mekanisme Sumber | 7 | T.B.A |
+| 14 | Statistika Gempa Bumi dan Risiko Seismik | 8 | T.B.A |
+| 15 | Monitoring, Peringatan Dini, dan Studi Kasus Indonesia | 8 | T.B.A |
+| 16 | **Ujian Akhir Semester** | — | — |
 
-| Minggu-ke | Tema                                 | Materi |
-|:------:|:-------------------------------------|:-------:|
-| 1     | Sejarah dan Wawasan Seismologi | [Bahan Kuliah](https://nbviewer.jupyter.org/github/maswiet/Kuliah_Seismologi/blob/master/Sejarah_Wawasan_Seismologi.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maswiet/Kuliah_Seismologi/master?filepath=Sejarah_Wawasan_Seismologi.ipynb) |
-| 2     | Prinsip Kerja Seismometer | [Bahan Kuliah](https://nbviewer.jupyter.org/github/maswiet/Kuliah_Seismologi/blob/master/Prinsip_Seismometer.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maswiet/Kuliah_Seismologi/master?filepath=Prinsip_Seismometer.ipynb) |
-| 3    | Gempa Bumi (Tempat kejadian dan penyebabnya) | [Bahan Kuliah](https://nbviewer.jupyter.org/github/maswiet/Kuliah_Seismologi/blob/master/SumberGempa.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maswiet/Kuliah_Seismologi/master?filepath=SumberGempa.ipynb) |
-| 4     | Struktur Bagian dalam Bumi | [Bahan Kuliah](https://nbviewer.jupyter.org/github/maswiet/Kuliah_Seismologi/blob/master/Struktur.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maswiet/Kuliah_Seismologi/master?filepath=Struktur.ipynb) |
-| 5     | Gelombang Seismik | [Bahan Kuliah](https://nbviewer.jupyter.org/github/maswiet/Kuliah_Seismologi/blob/master/Gel_Seism.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maswiet/Kuliah_Seismologi/master?filepath=Gel_Seism.ipynb) |
-| 6     | Data Seismologi Digital | T.B.A |
-| 7     | Aplikasi Seismologi |  T.B.A |
-| 8     | Ujian Tengah Semester | [T.B.A](#) |
-| 9     | Waktu Penjalaran Gelombang Seismik| [T.B.A](#) |
-| 10     | Lintasan Gelombang Seismik dan Fase Gempa | [T.B.A](#) |
-| 11     | Parameter Sumber dan Penentuannya | [T.B.A](#) |
-| 12     | Mekanisme Gempabumi 1 | [T.B.A](#) |
-| 13     | Mekanisme Gempabumi 2 | [T.B.A](#) |
-| 14     | Statistika Gempabumi | [T.B.A](#) |
-| 15     | Tes Nuklir, Getaran karena Ledakan dan Seismologi Planet  | [T.B.A](#) |
-| 16     | Ujian Akhir Semester | [T.B.A](#) |
+T.B.A = *to be announced*
 
-T.B.A = to-be-anounced 
+## Praktikum Seismologi (PAGF262412)
 
+Praktikum memindahkan beban pembelajaran dari pemahaman konseptual (kognitif) ke keterampilan operasional (psikomotorik) dan kerja sama tim.
 
-## BukuAcuan:
-1. Kulhanek, O., 1997: Anatomy of Seismograms, Elsevier, Netherland.
-2. Markus Bath (1979). Introduction to Seismology, Birkhauser Verlag.
-3. Waluyo (1998). Materi kuliah Seismologi, Program Studi Geofisika, FMIPA-UGM.
-4. Shearer 2019. Introduction to Seismology, Cambridge University Press
+| No | Acara Praktikum |
+|:--:|:--|
+| 1 | Dasar seismogram dan pemrosesan sinyal digital pada data seismologi |
+| 2 | Identifikasi fase gelombang dan penentuan waktu tiba (*travel time*) |
+| 3 | Penentuan lokasi episenter dan hiposenter — Metode Lingkaran dan Inversi |
+| 4 | Analisis magnitudo dan energi gempa bumi |
+| 5 | Penentuan mekanisme fokus (*focal mechanism*) |
 
-<img src="https://images-na.ssl-images-amazon.com/images/I/411QOuJzYAL._SY291_BO1,204,203,200_QL40_.jpg" width=128px height=161px alt='Newman'> <img src="https://images-na.ssl-images-amazon.com/images/I/51td5MftP2L._SX344_BO1,204,203,200_.jpg" width=128px height=161px alt='Mase'>
+## Buku acuan
 
-## Aplikasi Seismologi:
-1. [Obspy](https://github.com/obspy/obspy/wiki): A Python Framework for Seismology.
+**Teori**
 
+1. Shearer, P. M. (2019). *Introduction to Seismology* (3rd ed.). Cambridge University Press.
+2. Havskov, J., & Alguacil, G. (2016). *Instrumentation in Earthquake Seismology*. Springer.
+3. Kulhánek, O. (1990). *Anatomy of Seismograms*. Elsevier.
 
- [1]: http://www.twitter.com/maswiet
- [2]: http://www.facebook.com/mas.wiet.52
- [3]: https://plus.google.com/#
- [4]: https://www.tumblr.com/blog/maswiett
- [5]: http://dribbble.com/maswiet
- [6]: http://www.github.com/maswiet
+**Praktikum**
 
+4. Bormann, P. (Ed.). (2012). *New Manual of Seismological Observatory Practice (NMSOP-2)*. GFZ.
+5. Suryanto, W. (2026). *Modul Praktikum Seismologi*. Program Studi Geofisika FMIPA UGM.
+
+**Pendukung**
+
+6. Båth, M. (1979). *Introduction to Seismology*. Birkhäuser Verlag.
+7. Waluyo (1998). *Materi Kuliah Seismologi*. Program Studi Geofisika, FMIPA UGM.
+
+## Perangkat lunak
+
+- [ObsPy](https://github.com/obspy/obspy/wiki) — *A Python Framework for Seismology*
+
+---
+
+<sub>Program Studi Sarjana Geofisika FMIPA UGM · Kurikulum 2026</sub>
+[![twitter][1.1]][1] [![facebook][2.1]][2] [![github][6.1]][6]
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter)
+[2.1]: http://i.imgur.com/P3YfQoD.png (facebook)
+[6.1]: http://i.imgur.com/0o48UoR.png (github)
+
+[1]: http://www.twitter.com/maswiet
+[2]: http://www.facebook.com/mas.wiet.52
+[6]: http://www.github.com/maswiet
