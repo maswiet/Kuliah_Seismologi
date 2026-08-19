@@ -39,7 +39,7 @@ Kurikulum 2026 memetakan capaian ini ke **4 Pilar CPL**: Sikap (CPL1), Penguasaa
 
 ## Silabus
 
-![Seismograms](https://chenseismolab.org/wp-content/uploads/2017/09/cropped-Header_image7_waveform_fitting_Chenetal2015JGR-1.png)
+![Seismograms](./Gambar/sismo1.png)
 
 1. **Pendahuluan** — ruang lingkup, sejarah perkembangan seismologi dan elastisitas, serta peran seismologi dalam kebencanaan dan pembangunan berkelanjutan.
 2. **Gelombang Seismik** — teori gelombang badan (P dan S), gelombang permukaan (Love dan Rayleigh), kecepatan gelombang, sifat medium, Hukum Snell, *head wave*, dan jalur sinar seismik.
