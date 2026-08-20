@@ -373,7 +373,7 @@ Tugas ini bobotnya sama dengan T2.2. Kemampuan menjelaskan tanpa rumus adalah bu
 | 5 · Empat modulus elastik | 15 | 105 |
 | 6 · Ke mana semua ini bermuara | 15 | 120 |
 
-⚠️ **Totalnya 120 menit, melebihi jatah 100 menit.** Ini disengaja, agar Anda punya pilihan sesuai kondisi kelas:
+⚠️ **Totalnya 120 menit, melebihi jatah 100 menit.** 
 
 - **Kelas dengan prasyarat kuat** → §1 dapat dipadatkan menjadi 10 menit, §5 menjadi 10 menit. Total 105 menit, masih dapat dikejar.
 - **Kelas dengan prasyarat lemah** → **jangan memotong §1–§3**. Sebaliknya, jadikan **§5 sebagai bacaan mandiri** dan padatkan §4 menjadi 12 menit. Kehilangan §5 dapat ditambal minggu depan; kehilangan §2 tidak dapat ditambal sama sekali.
