@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1020 560" width="1020" height="560" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">
+<rect width="1020" height="560" fill="#ffffff"/>
+<text x="510" y="32" text-anchor="middle" font-size="21" font-weight="700" fill="#0f172a">Sembilan Komponen Tensor Tegangan</text>
+<text x="510" y="55" text-anchor="middle" font-size="13.5" fill="#475569">Cara membaca σᵢⱼ: indeks pertama = bidangnya, indeks kedua = arah gayanya</text>
+
+<!-- kubus -->
+<g stroke="#334155" stroke-width="2" fill="none">
+<rect x="150" y="150" width="200" height="200" fill="#f1f5f9"/>
+<line x1="150" y1="150" x2="215" y2="100"/><line x1="350" y1="150" x2="415" y2="100"/>
+<line x1="350" y1="350" x2="415" y2="300"/>
+<line x1="215" y1="100" x2="415" y2="100"/><line x1="415" y1="100" x2="415" y2="300"/>
+</g>
+<text x="250" y="378" font-size="13" fill="#64748b">bidang menghadap +x₁ (kanan)</text>
+
+<!-- panah muka kanan: sigma 11, 12, 13 -->
+<g stroke="#dc2626" stroke-width="3">
+<line x1="350" y1="250" x2="425" y2="250"/>
+</g>
+<polygon points="432,250 420,244 420,256" fill="#dc2626"/>
+<text x="440" y="246" font-size="15" font-weight="700" fill="#dc2626">σ₁₁</text>
+<text x="440" y="264" font-size="11" fill="#991b1b">normal</text>
+
+<g stroke="#0e7490" stroke-width="3">
+<line x1="350" y1="200" x2="350" y2="150"/>
+</g>
+<polygon points="350,143 344,155 356,155" fill="#0e7490"/>
+<text x="358" y="152" font-size="15" font-weight="700" fill="#0e7490">σ₁₂</text>
+<text x="358" y="169" font-size="11" fill="#155e75">geser</text>
+
+<g stroke="#7c3aed" stroke-width="3">
+<line x1="350" y1="300" x2="393" y2="268"/>
+</g>
+<polygon points="399,263 386,265 392,274" fill="#7c3aed"/>
+<text x="406" y="252" font-size="15" font-weight="700" fill="#7c3aed">σ₁₃</text>
+<text x="406" y="269" font-size="11" fill="#5b21b6">geser</text>
+
+<!-- sumbu -->
+<g stroke="#94a3b8" stroke-width="2">
+<line x1="90" y1="400" x2="150" y2="400"/><line x1="90" y1="400" x2="90" y2="340"/><line x1="90" y1="400" x2="126" y2="372"/>
+</g>
+<text x="155" y="405" font-size="12" fill="#64748b" font-weight="700">x₁</text>
+<text x="84" y="334" font-size="12" fill="#64748b" font-weight="700">x₂</text>
+<text x="130" y="368" font-size="12" fill="#64748b" font-weight="700">x₃</text>
+
+<!-- matriks -->
+<text x="700" y="128" text-anchor="middle" font-size="15" font-weight="700" fill="#0f172a">Susun ketiga bidang jadi matriks 3×3</text>
+<g font-size="20" fill="#0f172a">
+<text x="530" y="180">σᵢⱼ =</text>
+</g>
+<line x1="600" y1="150" x2="592" y2="150" stroke="#334155" stroke-width="2"/>
+<line x1="592" y1="150" x2="592" y2="270" stroke="#334155" stroke-width="2"/>
+<line x1="592" y1="270" x2="600" y2="270" stroke="#334155" stroke-width="2"/>
+<line x1="852" y1="150" x2="860" y2="150" stroke="#334155" stroke-width="2"/>
+<line x1="860" y1="150" x2="860" y2="270" stroke="#334155" stroke-width="2"/>
+<line x1="860" y1="270" x2="852" y2="270" stroke="#334155" stroke-width="2"/>
+<rect x="608" y="158" width="72" height="34" rx="5" fill="#fee2e2"/>
+<rect x="690" y="196" width="72" height="34" rx="5" fill="#fee2e2"/>
+<rect x="772" y="234" width="72" height="34" rx="5" fill="#fee2e2"/>
+<g font-size="17" text-anchor="middle">
+<text x="644" y="182" fill="#991b1b" font-weight="700">σ₁₁</text><text x="726" y="182" fill="#0e7490">σ₁₂</text><text x="808" y="182" fill="#7c3aed">σ₁₃</text>
+<text x="644" y="220" fill="#0e7490">σ₂₁</text><text x="726" y="220" fill="#991b1b" font-weight="700">σ₂₂</text><text x="808" y="220" fill="#7c3aed">σ₂₃</text>
+<text x="644" y="258" fill="#7c3aed">σ₃₁</text><text x="726" y="258" fill="#7c3aed">σ₃₂</text><text x="808" y="258" fill="#991b1b" font-weight="700">σ₃₃</text>
+</g>
+<text x="726" y="292" text-anchor="middle" font-size="12.5" fill="#991b1b" font-weight="700">Diagonal (kotak merah) = tegangan NORMAL</text>
+<text x="726" y="311" text-anchor="middle" font-size="12.5" fill="#0e7490" font-weight="700">Di luar diagonal = tegangan GESER</text>
+
+<!-- simetri -->
+<rect x="530" y="330" width="400" height="88" rx="9" fill="#f0fdf4" stroke="#15803d" stroke-width="1.6"/>
+<text x="730" y="354" text-anchor="middle" font-size="14" font-weight="700" fill="#15803d">Sembilan, tapi hanya enam yang bebas</text>
+<text x="730" y="377" text-anchor="middle" font-size="14" fill="#0f172a">σᵢⱼ = σⱼᵢ</text>
+<text x="730" y="399" text-anchor="middle" font-size="12" fill="#166534">Kalau tidak simetris, kubus kecil itu akan berputar sendiri</text>
+<text x="730" y="414" text-anchor="middle" font-size="12" fill="#166534">tanpa henti. Alam tidak mengizinkannya.</text>
+
+<!-- contoh membaca -->
+<rect x="60" y="430" width="900" height="112" rx="10" fill="#f8fafc" stroke="#334155" stroke-width="1.6"/>
+<text x="510" y="456" text-anchor="middle" font-size="14.5" font-weight="700" fill="#0f172a">Latihan membaca indeks — ucapkan keras-keras</text>
+<text x="90" y="484" font-size="13.5" fill="#0f172a"><tspan font-weight="700" fill="#991b1b">σ₂₂</tspan>  →  bidang yang menghadap x₂, gaya ke arah x₂  →  <tspan font-weight="700">tegak lurus bidang, jadi NORMAL</tspan></text>
+<text x="90" y="509" font-size="13.5" fill="#0f172a"><tspan font-weight="700" fill="#0e7490">σ₂₁</tspan>  →  bidang yang menghadap x₂, gaya ke arah x₁  →  <tspan font-weight="700">menyusur bidang, jadi GESER</tspan></text>
+<text x="90" y="532" font-size="13" fill="#475569">Kaidahnya: <tspan font-weight="700">indeks sama = normal, indeks berbeda = geser.</tspan> Tidak ada yang perlu dihafal selain ini.</text>
+</svg>

@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1020 480" width="1020" height="480" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">
+<rect width="1020" height="480" fill="#ffffff"/>
+<text x="510" y="32" text-anchor="middle" font-size="21" font-weight="700" fill="#0f172a">Sumbu Utama: Memutar Sampai Geser Lenyap</text>
+<text x="510" y="55" text-anchor="middle" font-size="13.5" fill="#475569">Tegangannya tidak berubah — hanya cara kita memandangnya yang berubah</text>
+
+<!-- KIRI -->
+<text x="200" y="84" text-anchor="middle" font-size="15" font-weight="700" fill="#b45309">Orientasi sembarang</text>
+<rect x="120" y="120" width="160" height="160" fill="#fef3c7" stroke="#334155" stroke-width="2"/>
+<g stroke="#dc2626" stroke-width="2.5">
+<line x1="280" y1="200" x2="322" y2="200"/><line x1="120" y1="200" x2="78" y2="200"/>
+<line x1="200" y1="120" x2="200" y2="100"/><line x1="200" y1="280" x2="200" y2="318"/>
+</g>
+<polygon points="328,200 316,194 316,206" fill="#dc2626"/><polygon points="72,200 84,194 84,206" fill="#dc2626"/>
+<polygon points="200,94 194,106 206,106" fill="#dc2626"/><polygon points="200,324 194,312 206,312" fill="#dc2626"/>
+<g stroke="#7c3aed" stroke-width="2.5">
+<line x1="130" y1="130" x2="180" y2="130"/><line x1="270" y1="270" x2="220" y2="270"/>
+<line x1="130" y1="270" x2="130" y2="220"/><line x1="270" y1="130" x2="270" y2="180"/>
+</g>
+<polygon points="186,130 174,124 174,136" fill="#7c3aed"/><polygon points="214,270 226,264 226,276" fill="#7c3aed"/>
+<polygon points="130,214 124,226 136,226" fill="#7c3aed"/><polygon points="270,186 264,174 276,174" fill="#7c3aed"/>
+<text x="200" y="352" text-anchor="middle" font-size="13" fill="#dc2626" font-weight="700">merah = normal</text>
+<text x="200" y="372" text-anchor="middle" font-size="13" fill="#7c3aed" font-weight="700">ungu = geser (ADA)</text>
+
+<!-- panah putar -->
+<path d="M 360 200 A 60 60 0 0 1 470 200" stroke="#0f172a" stroke-width="3" fill="none"/>
+<polygon points="474,204 462,196 460,210" fill="#0f172a"/>
+<text x="415" y="160" text-anchor="middle" font-size="14" font-weight="700" fill="#0f172a">putar</text>
+<text x="415" y="234" text-anchor="middle" font-size="13" fill="#475569">cari sudut θ yang</text>
+<text x="415" y="251" text-anchor="middle" font-size="13" fill="#475569">membuat geser = 0</text>
+
+<!-- KANAN -->
+<text x="700" y="84" text-anchor="middle" font-size="15" font-weight="700" fill="#15803d">Orientasi sumbu utama</text>
+<rect x="620" y="120" width="160" height="160" fill="#dcfce7" stroke="#334155" stroke-width="2"/>
+<g stroke="#dc2626" stroke-width="3.5">
+<line x1="780" y1="200" x2="836" y2="200"/><line x1="620" y1="200" x2="564" y2="200"/>
+</g>
+<polygon points="842,200 828,193 828,207" fill="#dc2626"/><polygon points="558,200 572,193 572,207" fill="#dc2626"/>
+<g stroke="#dc2626" stroke-width="2">
+<line x1="700" y1="120" x2="700" y2="102"/><line x1="700" y1="280" x2="700" y2="308"/>
+</g>
+<polygon points="700,96 695,108 705,108" fill="#dc2626"/><polygon points="700,314 695,302 705,302" fill="#dc2626"/>
+<text x="860" y="196" font-size="15" font-weight="700" fill="#dc2626">σ₁</text>
+<text x="722" y="106" font-size="15" font-weight="700" fill="#dc2626">σ₃</text>
+<text x="700" y="352" text-anchor="middle" font-size="13" fill="#dc2626" font-weight="700">hanya normal tersisa</text>
+<text x="700" y="372" text-anchor="middle" font-size="13" fill="#15803d" font-weight="700">geser = NOL di keempat sisi</text>
+
+<rect x="60" y="394" width="900" height="72" rx="10" fill="#0f172a"/>
+<text x="510" y="420" text-anchor="middle" font-size="14.5" font-weight="700" fill="#ffffff">Secara matematis: sumbu utama adalah VEKTOR EIGEN dari matriks σᵢⱼ, dan σ₁, σ₂, σ₃ adalah NILAI EIGEN-nya</text>
+<text x="510" y="443" text-anchor="middle" font-size="13" fill="#cbd5e1">Jadi mencari sumbu utama = perintah <tspan font-family="monospace" fill="#7dd3fc">numpy.linalg.eigh(sigma)</tspan> — bukan hal yang menakutkan.</text>
+<text x="510" y="460" text-anchor="middle" font-size="13" fill="#cbd5e1">Yang penting bukan cara menghitungnya, melainkan bahwa arah itu SELALU ADA untuk tegangan apa pun.</text>
+</svg>

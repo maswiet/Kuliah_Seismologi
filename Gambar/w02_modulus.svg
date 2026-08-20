@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1064 470" width="1064" height="470" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif">
+<rect width="1064" height="470" fill="#ffffff"/>
+<text x="532" y="32" text-anchor="middle" font-size="21" font-weight="700" fill="#0f172a">Empat Modulus Elastik — Empat Cara Batuan Melawan</text>
+<text x="532" y="55" text-anchor="middle" font-size="13.5" fill="#475569">Semuanya menjawab satu pertanyaan: seberapa keras kalian harus mendorong untuk mengubahnya sebanyak itu?</text>
+
+<g stroke="#334155" stroke-width="2">
+<rect x="28" y="86" width="240" height="234" rx="10" fill="#ecfeff"/>
+<rect x="284" y="86" width="240" height="234" rx="10" fill="#fffbeb"/>
+<rect x="540" y="86" width="240" height="234" rx="10" fill="#f5f3ff"/>
+<rect x="796" y="86" width="240" height="234" rx="10" fill="#f0fdf4"/>
+</g>
+<g font-size="14.5" font-weight="700" text-anchor="middle">
+<text x="155" y="112" fill="#0e7490">Modulus Young  E</text>
+<text x="404" y="112" fill="#b45309">Modulus Geser  μ</text>
+<text x="660" y="112" fill="#7c3aed">Modulus Ruah  K</text>
+<text x="916" y="112" fill="#15803d">Nisbah Poisson  σ</text>
+</g>
+
+<!-- Young -->
+<rect x="112" y="140" width="86" height="60" fill="none" stroke="#94a3b8" stroke-width="1.6" stroke-dasharray="4 3"/>
+<rect x="96" y="146" width="118" height="48" fill="#cffafe" stroke="#0e7490" stroke-width="2"/>
+<g stroke="#dc2626" stroke-width="2.5">
+<line x1="218" y1="170" x2="250" y2="170"/><line x1="92" y1="170" x2="60" y2="170"/></g>
+<polygon points="256,170 244,164 244,176" fill="#dc2626"/><polygon points="54,170 66,164 66,176" fill="#dc2626"/>
+<text x="155" y="228" text-anchor="middle" font-size="12" fill="#155e75">tarik satu arah, benda memanjang</text>
+<text x="155" y="256" text-anchor="middle" font-size="15" fill="#0f172a">E = tegangan / regangan</text>
+<text x="155" y="282" text-anchor="middle" font-size="12" fill="#475569">granit ≈ 50 GPa</text>
+<text x="155" y="302" text-anchor="middle" font-size="11.5" fill="#64748b">makin besar, makin kaku</text>
+
+<!-- Geser -->
+<rect x="361" y="140" width="86" height="60" fill="none" stroke="#94a3b8" stroke-width="1.6" stroke-dasharray="4 3"/>
+<polygon points="388,140 474,140 454,200 368,200" fill="#fef3c7" stroke="#b45309" stroke-width="2"/>
+<g stroke="#dc2626" stroke-width="2.5">
+<line x1="382" y1="132" x2="440" y2="132"/><line x1="460" y1="208" x2="402" y2="208"/></g>
+<polygon points="446,132 434,126 434,138" fill="#dc2626"/><polygon points="396,208 408,202 408,214" fill="#dc2626"/>
+<text x="404" y="228" text-anchor="middle" font-size="12" fill="#92400e">geser menyamping, bentuk berubah</text>
+<text x="404" y="256" text-anchor="middle" font-size="15" fill="#0f172a">μ = teg. geser / reg. geser</text>
+<text x="404" y="282" text-anchor="middle" font-size="12" fill="#475569">granit ≈ 20 GPa · <tspan font-weight="700" fill="#dc2626">air = 0</tspan></text>
+<text x="404" y="302" text-anchor="middle" font-size="11.5" fill="#64748b">ingat nol itu — dipakai lagi nanti</text>
+
+<!-- Ruah -->
+<rect x="621" y="140" width="80" height="60" fill="none" stroke="#94a3b8" stroke-width="1.6" stroke-dasharray="4 3"/>
+<rect x="631" y="147" width="60" height="46" fill="#ede9fe" stroke="#7c3aed" stroke-width="2"/>
+<g stroke="#dc2626" stroke-width="2.2">
+<line x1="722" y1="170" x2="706" y2="170"/><line x1="614" y1="170" x2="630" y2="170"/>
+<line x1="668" y1="126" x2="668" y2="141"/><line x1="668" y1="214" x2="668" y2="199"/></g>
+<polygon points="702,170 712,165 712,175" fill="#dc2626"/><polygon points="634,170 624,165 624,175" fill="#dc2626"/>
+<polygon points="668,145 663,135 673,135" fill="#dc2626"/><polygon points="668,195 663,205 673,205" fill="#dc2626"/>
+<text x="660" y="228" text-anchor="middle" font-size="12" fill="#5b21b6">tekan segala arah, volume menyusut</text>
+<text x="660" y="256" text-anchor="middle" font-size="15" fill="#0f172a">K = −P / (ΔV/V)</text>
+<text x="660" y="282" text-anchor="middle" font-size="12" fill="#475569">granit ≈ 50 GPa · air ≈ 2,2 GPa</text>
+<text x="660" y="302" text-anchor="middle" font-size="11.5" fill="#64748b">air melawan pemampatan, bukan bentuk</text>
+
+<!-- Poisson -->
+<rect x="876" y="142" width="80" height="56" fill="none" stroke="#94a3b8" stroke-width="1.6" stroke-dasharray="4 3"/>
+<rect x="864" y="152" width="104" height="36" fill="#dcfce7" stroke="#15803d" stroke-width="2"/>
+<g stroke="#dc2626" stroke-width="2.2">
+<line x1="960" y1="170" x2="986" y2="170"/><line x1="848" y1="170" x2="822" y2="170"/></g>
+<polygon points="992,170 980,165 980,175" fill="#dc2626"/><polygon points="816,170 828,165 828,175" fill="#dc2626"/>
+<g stroke="#15803d" stroke-width="2">
+<line x1="904" y1="140" x2="904" y2="150"/><line x1="904" y1="200" x2="904" y2="190"/></g>
+<polygon points="904,153 899,143 909,143" fill="#15803d"/><polygon points="904,187 899,197 909,197" fill="#15803d"/>
+<text x="916" y="228" text-anchor="middle" font-size="12" fill="#166534">ditarik memanjang, ikut menyempit</text>
+<text x="916" y="256" text-anchor="middle" font-size="15" fill="#0f172a">σ = −ε melintang / ε memanjang</text>
+<text x="916" y="282" text-anchor="middle" font-size="12" fill="#475569">batuan khas ≈ 0,25</text>
+<text x="916" y="302" text-anchor="middle" font-size="11.5" fill="#64748b">tanpa satuan</text>
+
+<rect x="28" y="340" width="1008" height="114" rx="10" fill="#0f172a"/>
+<text x="532" y="366" text-anchor="middle" font-size="15" font-weight="700" fill="#ffffff">Empat modulus, tetapi untuk medium isotropik hanya DUA yang bebas</text>
+<text x="532" y="381" text-anchor="middle" font-size="13.5" fill="#cbd5e1">Seismologi memilih pasangan Lamé: λ dan μ. Sisanya dapat dihitung dari keduanya.</text>
+<text x="532" y="419" text-anchor="middle" font-size="14" fill="#7dd3fc" font-family="monospace">K = λ + (2/3)μ          E = μ(3λ + 2μ)/(λ + μ)          σ = λ / [2(λ + μ)]</text>
+<text x="532" y="446" text-anchor="middle" font-size="12.5" fill="#94a3b8">Tidak perlu dihafal. Yang perlu diingat: dua angka sudah cukup untuk memerikan seluruh sifat elastik batuan isotropik.</text>
+</svg>
