@@ -1,0 +1,29 @@
+#
+# Berkas antarmuka SPECFEM2D untuk model dua lapis mendatar Minggu 4.
+# Sumbu z diukur ke ATAS dari dasar model. Model: 0 <= z <= 140 m.
+#   batuan dasar  V2 = 2500 m/s   dari z = 0   sampai z = 110
+#   pelapukan     V1 = 1000 m/s   dari z = 110 sampai z = 140  (tebal h = 30 m)
+#
+# jumlah antarmuka
+ 3
+#
+# antarmuka 1 : dasar model, z = 0
+ 2
+    0.0    0.0
+  280.0    0.0
+#
+# antarmuka 2 : batas pelapukan-batuan dasar, z = 110  (kedalaman 30 m)
+ 2
+    0.0  110.0
+  280.0  110.0
+#
+# antarmuka 3 : permukaan bebas, z = 140
+ 2
+    0.0  140.0
+  280.0  140.0
+#
+# jumlah lapisan spektral elemen dari bawah ke atas
+# lapisan 1 (batuan dasar, tebal 110 m)
+ 44
+# lapisan 2 (pelapukan, tebal 30 m)
+ 12
