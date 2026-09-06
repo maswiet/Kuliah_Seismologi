@@ -2,7 +2,7 @@
 ### Pelaksanaan Milestone **M1** (diperluas ke M2)
 **Mata Kuliah Seismologi · Program Studi Geofisika UGM · Semester Ganjil 2026/2027**
 
-> Kuliah tatap muka Senin, 7 September 2026 (07.15) **ditiadakan** karena dosen bertugas pada
+> Kuliah tatap muka Senin, 7 September 2026 (07.15) **ditiadakan** karena saya mendapat tugas mengikuti
 > *management walkthrough* proyek SP-ERT Geothermal di Tomohon, Sulawesi Utara.
 > Sebagai gantinya, tiga pertemuan (7, 14, 21 September) dijalankan **asinkron berbasis proyek
 > kelompok**, dan **pertemuan 14 dan 21 September dipakai penuh untuk kuis tanpa bantuan,
