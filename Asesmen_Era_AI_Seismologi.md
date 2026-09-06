@@ -5,7 +5,7 @@
 
 ## 1. Diagnosis: 
 
-Selama puluhan tahun kita memakai satu asumsi diam-diam:
+Selama puluhan tahun kita memakai satu asumsi:
 
 > *Kalau mahasiswa bisa menghasilkan laporan yang benar, berarti dia paham.*
 
