@@ -54,11 +54,15 @@ Yang terukur di panel A adalah **jumlah semuanya**. Memisahkan atenuasi intrinsi
 
 $Q$ didefinisikan lewat pecahan energi yang hilang tiap siklus:
 
-25080\frac{1}{Q} = -\frac{1}{2\pi}\frac{\Delta E}{E}25080
+```math
+\frac{1}{Q} = -\frac{1}{2\pi}\frac{\Delta E}{E}
+```
 
 Amplitudo meluruh sebagai
 
-25080A(f) = A_0 \exp\left(-\frac{\pi f t}{Q}\right) = A_0\,e^{-\pi f t^*}, \qquad t^* = \frac{t}{Q}25080
+```math
+A(f) = A_0 \exp\left(-\frac{\pi f t}{Q}\right) = A_0\,e^{-\pi f t^*}, \qquad t^* = \frac{t}{Q}
+```
 
 **Perhatikan $f$ pada eksponennya.** Itulah yang membuat gelombang berfrekuensi tinggi lenyap lebih dulu, dan itulah yang menjelaskan tabel rezim jarak di §1.
 

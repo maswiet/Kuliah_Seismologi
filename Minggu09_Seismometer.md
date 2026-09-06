@@ -27,7 +27,9 @@ Di Minggu 11 kita menulis $u(t) = s(t) * g(t) * i(t) + n(t)$. Hari ini kita beda
 
 Seismometer sederhana adalah massa yang digantung pegas di dalam rangka yang ikut bergerak bersama tanah. Yang terukur adalah **gerak relatif** massa terhadap rangka:
 
-25147\ddot{x} + 2\varepsilon\omega_0 \dot{x} + \omega_0^2 x = -\ddot{u}_{\text{tanah}}25147
+```math
+\ddot{x} + 2\varepsilon\omega_0 \dot{x} + \omega_0^2 x = -\ddot{u}_{\text{tanah}}
+```
 
 dengan $\omega_0$ frekuensi sudut alami dan $\varepsilon$ faktor redaman.
 
@@ -47,7 +49,7 @@ Tiga rezim yang menentukan seluruh perilakunya:
 
 Dalam ranah frekuensi, seluruh perilaku instrumen terangkum dalam satu fungsi kompleks $I(\omega)$ — amplitudo dan fasa, seperti kedua panel tadi.
 
-Karena $U(\omega) = S(\omega)\,G(\omega)\,I(\omega)$, membuang pengaruh alat berarti **membagi** dengan $I(\omega)$. Itulah dekonvolusi respons.
+Karena $`U(\omega) = S(\omega)\,G(\omega)\,I(\omega)`$, membuang pengaruh alat berarti **membagi** dengan $I(\omega)$. Itulah dekonvolusi respons.
 
 Instrumen nyata dinyatakan dengan **kutub dan nol** (*poles and zeros*) beserta faktor sensitivitas. Metadata itu disimpan dalam **StationXML** — berkas yang sama pentingnya dengan datanya sendiri.
 

@@ -119,7 +119,9 @@ Perhatikan dua pengecualiannya, keduanya bermakna:
 
 Bola fokal *first motion* hanya memakai tanda gerakan pertama — membuang informasi amplitudo dan bentuk gelombang. **Tensor momen** memakai seluruhnya.
 
-$$\mathbf{M} = \begin{pmatrix} M_{rr} & M_{rt} & M_{rp} \\ M_{rt} & M_{tt} & M_{tp} \\ M_{rp} & M_{tp} & M_{pp} \end{pmatrix}$$
+```math
+\mathbf{M} = \begin{pmatrix} M_{rr} & M_{rt} & M_{rp} \\ M_{rt} & M_{tt} & M_{tp} \\ M_{rp} & M_{tp} & M_{pp} \end{pmatrix}
+```
 
 Enam bilangan bebas yang menyatakan sistem gaya ekuivalen di sumber. Berkas [`data/W14_mekanisme_indonesia.csv`](data/) memuat keenamnya untuk kedua belas gempa tadi.
 

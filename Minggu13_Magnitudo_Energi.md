@@ -58,7 +58,9 @@ Penyebabnya nyata semua: pola radiasi sumber yang tidak sama ke segala arah, kon
 
 Gagasan Richter (1935) sederhana: ukur amplitudo maksimum, lalu koreksi pengaruh jarak.
 
-$$M_L = \log_{10} A + f(R)$$
+```math
+M_L = \log_{10} A + f(R)
+```
 
 Panel A menunjukkan mengapa suku $f(R)$ mutlak diperlukan: pada 97.691 pembacaan nyata, amplitudo jatuh **dua orde besaran** hanya karena jarak. Tanpa koreksi, gempa yang sama akan terbaca sangat berbeda di stasiun dekat dan jauh.
 
@@ -66,7 +68,9 @@ Panel A menunjukkan mengapa suku $f(R)$ mutlak diperlukan: pada 97.691 pembacaan
 
 Panel B adalah pelajaran yang tidak ada di buku teks. Saya terapkan rumus kalibrasi California yang lazim dikutip:
 
-$$M_L = \log_{10} A + 2{,}76 \log_{10} R - 2{,}48$$
+```math
+M_L = \log_{10} A + 2{,}76 \log_{10} R - 2{,}48
+```
 
 Hasilnya meleset **−1,12 satuan magnitudo** terhadap katalog. Dan yang lebih penting: sisanya **tidak tetap** — ia bergerak dari −1,5 pada jarak dekat menjadi hampir nol pada 60 km.
 
@@ -82,13 +86,17 @@ Semua skala berbasis amplitudo pada akhirnya jenuh, karena amplitudo pada satu p
 
 **Momen seismik** menghindari jebakan itu dengan tidak mengukur getaran sama sekali, melainkan mengukur **seberapa banyak batuan yang bergeser**:
 
-$$M_0 = \mu \, \bar{D} \, A$$
+```math
+M_0 = \mu \, \bar{D} \, A
+```
 
 dengan $\mu$ modulus geser, $\bar D$ pergeseran rata-rata, dan $A$ luas bidang sesar. Satuannya N·m — satuan kerja, bukan satuan amplitudo.
 
 Karena tidak ada suku yang bisa jenuh, $M_0$ tumbuh terus. Magnitudo momen dibuat agar angkanya bersambung dengan skala lama:
 
-$$M_W = \frac{2}{3}\left( \log_{10} M_0 - 9{,}1 \right)$$
+```math
+M_W = \frac{2}{3}\left( \log_{10} M_0 - 9{,}1 \right)
+```
 
 ### Spektrum sumber dan frekuensi sudut
 
@@ -107,7 +115,9 @@ Ini menyambung langsung dengan Minggu 11: mahasiswa sudah melihat sendiri bahwa 
 
 Energi seismik teradiasi berhubungan dengan magnitudo:
 
-$$\log_{10} E \approx 1{,}5\,M + 4{,}8$$
+```math
+\log_{10} E \approx 1{,}5\,M + 4{,}8
+```
 
 Setiap satu satuan magnitudo berarti energi **31,6 kali** lipat:
 

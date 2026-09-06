@@ -19,7 +19,9 @@ Untuk bangunan tinggi, gelombang inilah yang paling berbahaya, karena periodanya
 
 Ketika gelombang menumbuk batas, energinya terbagi. Untuk kasus paling sederhana — SH pada batas datar — koefisiennya bergantung pada **impedansi** $Z = \rho V$:
 
-25044R = \frac{Z_1 - Z_2}{Z_1 + Z_2}, \qquad T = \frac{2Z_1}{Z_1 + Z_2}25044
+```math
+R = \frac{Z_1 - Z_2}{Z_1 + Z_2}, \qquad T = \frac{2Z_1}{Z_1 + Z_2}
+```
 
 Tiga hal yang layak digarisbawahi:
 
@@ -35,7 +37,7 @@ Konversi itu bukan kerumitan yang mengganggu; ia justru dimanfaatkan. **Fungsi p
 
 ### Rayleigh
 
-Terbentuk dari perpaduan P dan SV yang terperangkap di dekat permukaan bebas. Gerak partikelnya **elips retrograd** pada bidang vertikal yang memuat arah rambat. Muncul di komponen **Z dan R**, tidak di T. Kecepatannya sekitar $0{,}92\,V_S$ pada medium homogen.
+Terbentuk dari perpaduan P dan SV yang terperangkap di dekat permukaan bebas. Gerak partikelnya **elips retrograd** pada bidang vertikal yang memuat arah rambat. Muncul di komponen **Z dan R**, tidak di T. Kecepatannya sekitar $`0{,}92\,V_S`$ pada medium homogen.
 
 ### Love
 

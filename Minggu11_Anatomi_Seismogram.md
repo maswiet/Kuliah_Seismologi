@@ -67,7 +67,9 @@ Rotasi ini bukan kosmetik — ia memisahkan jenis gelombang yang secara fisis be
 
 Di Minggu 1 kita menyimpulkan: *yang kita punya hanya seismogram*. Sekarang kelanjutannya yang kurang menyenangkan — **seismogram itu pun bukan gerakan tanah.**
 
-$$u(t) = s(t) * g(t) * i(t) + n(t)$$
+```math
+u(t) = s(t) * g(t) * i(t) + n(t)
+```
 
 Dari empat suku itu, hanya **dua yang kita inginkan**: $s(t)$ sumber dan $g(t)$ lintasan. Dua sisanya, respons instrumen dan derau, adalah kotoran yang kita sendiri yang harus menyingkirkannya.
 
@@ -91,7 +93,9 @@ Persamaan di atas berlaku karena bumi dan instrumen keduanya **sistem linear tak
 
 Gerakan tanah kontinu; komputer hanya menyimpan cuplikan pada laju $f_s$. Batas Nyquist:
 
-$$f_{\text{Nyquist}} = \frac{f_s}{2}$$
+```math
+f_{\text{Nyquist}} = \frac{f_s}{2}
+```
 
 Frekuensi di atas Nyquist **tidak hilang**. Ia **melipat ke bawah** dan menyamar sebagai frekuensi rendah yang tidak pernah ada. Panel A: sinyal 30 Hz dicuplik pada 40 Hz terbaca sebagai 10 Hz — dan tidak ada cara apa pun untuk mengetahuinya dari data hasil cuplikan itu saja.
 
@@ -149,7 +153,9 @@ Kembali ke panel D: itulah selisih 280 ms yang tadi.
 
 Kalau derau acak dan sinyal koheren, menumpuk $N$ jejak membuat derau saling meniadakan sementara sinyal bertahan:
 
-$$\text{SNR} \propto \sqrt{N}$$
+```math
+\text{SNR} \propto \sqrt{N}
+```
 
 Perhatikan konsekuensinya: **menumpuk 100 jejak hanya memberi perbaikan 10 kali, bukan 100 kali.** Pengukuran pada derau TF14 asli malah sedikit di bawah $\sqrt{N}$ — karena derau nyata tidak sepenuhnya acak dan tidak sepenuhnya saling bebas. Itu sendiri temuan yang layak didiskusikan.
 

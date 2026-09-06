@@ -87,7 +87,9 @@ Soal U **lebih sederhana** dari A, tetapi menguji inti penalaran yang sama. Kala
 
 **Metrik diagnostik — Rasio Retensi:**
 
-$$R = \frac{U}{A}$$
+```math
+R = \frac{U}{A}
+```
 
 | $R$ | Tafsir | Tindakan |
 |:--|:--|:--|

@@ -19,11 +19,15 @@ Hari ini kita ulangi penurunan Poisson dalam 40 menit — lalu di §4 kita lihat
 
 Hukum Newton untuk elemen medium kontinu:
 
-24973\rho \frac{\partial^2 u_i}{\partial t^2} = \frac{\partial \sigma_{ij}}{\partial x_j} + f_i24973
+```math
+\rho \frac{\partial^2 u_i}{\partial t^2} = \frac{\partial \sigma_{ij}}{\partial x_j} + f_i
+```
 
 Masukkan Hukum Hooke isotropik $\sigma_{ij} = \lambda \varepsilon_{kk}\delta_{ij} + 2\mu\varepsilon_{ij}$ dari Minggu 2, lalu ganti regangan dengan turunan perpindahan. Untuk medium homogen tanpa gaya luar:
 
-24973\rho \ddot{\mathbf{u}} = (\lambda + \mu)\,\nabla(\nabla \cdot \mathbf{u}) + \mu \nabla^2 \mathbf{u}24973
+```math
+\rho \ddot{\mathbf{u}} = (\lambda + \mu)\,\nabla(\nabla \cdot \mathbf{u}) + \mu \nabla^2 \mathbf{u}
+```
 
 Persamaan ini **belum terpisah** — komponen perpindahan masih saling terkait.
 
@@ -33,13 +37,19 @@ Persamaan ini **belum terpisah** — komponen perpindahan masih saling terkait.
 
 Teorema Helmholtz: setiap medan vektor dapat diuraikan menjadi bagian tak-berotasi dan bagian tak-berdivergensi,
 
-24973\mathbf{u} = \nabla\phi + \nabla \times \boldsymbol{\psi}24973
+```math
+\mathbf{u} = \nabla\phi + \nabla \times \boldsymbol{\psi}
+```
 
 Masukkan ke persamaan tadi, dan keajaibannya terjadi — persamaannya **pecah menjadi dua persamaan gelombang bebas**:
 
-24973\nabla^2 \phi = \frac{1}{\alpha^2}\ddot{\phi}, \qquad \nabla^2 \boldsymbol{\psi} = \frac{1}{\beta^2}\ddot{\boldsymbol{\psi}}24973
+```math
+\nabla^2 \phi = \frac{1}{\alpha^2}\ddot{\phi}, \qquad \nabla^2 \boldsymbol{\psi} = \frac{1}{\beta^2}\ddot{\boldsymbol{\psi}}
+```
 
-24973\alpha = V_P = \sqrt{\frac{\lambda+2\mu}{\rho}}, \qquad \beta = V_S = \sqrt{\frac{\mu}{\rho}}24973
+```math
+\alpha = V_P = \sqrt{\frac{\lambda+2\mu}{\rho}}, \qquad \beta = V_S = \sqrt{\frac{\mu}{\rho}}
+```
 
 **Dua gelombang, bukan satu.** Itulah ramalan Poisson.
 
@@ -49,7 +59,7 @@ Karena $\lambda + 2\mu > \mu$ selalu, maka $V_P > V_S$ **selalu** — P tiba leb
 
 ## 3 · Gelombang bidang, bola, dan polarisasi · 20 menit
 
-**Gelombang bidang** $\mathbf{u} = \mathbf{A}\,e^{i(\mathbf{k}\cdot\mathbf{x} - \omega t)}$ adalah alat baku analisis. **Gelombang bola** dari sumber titik meluruh sebagai $1/r$ — dan di Minggu 7 mahasiswa mengukur bahwa peluruhan sebenarnya lebih curam daripada itu.
+**Gelombang bidang** $`\mathbf{u} = \mathbf{A}\,e^{i(\mathbf{k}\cdot\mathbf{x} - \omega t)}`$ adalah alat baku analisis. **Gelombang bola** dari sumber titik meluruh sebagai $1/r$ — dan di Minggu 7 mahasiswa mengukur bahwa peluruhan sebenarnya lebih curam daripada itu.
 
 **Polarisasi:**
 

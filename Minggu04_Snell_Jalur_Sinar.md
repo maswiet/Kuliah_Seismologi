@@ -30,7 +30,9 @@ Nisbahnya **1,76** — dan panel B, diagram Wadati atas seluruh katalog, memberi
 
 Ketika gelombang menyeberangi batas antara dua medium berkecepatan berbeda, sudutnya berubah menurut
 
-25044\frac{\sin i_1}{V_1} = \frac{\sin i_2}{V_2} = p25044
+```math
+\frac{\sin i_1}{V_1} = \frac{\sin i_2}{V_2} = p
+```
 
 Besaran $p$ ini disebut **parameter sinar** (atau *ray parameter*), dan ia **lestari sepanjang seluruh lintasan** — melewati berapa pun lapisan. Itulah yang membuatnya begitu berguna: satu bilangan mencirikan seluruh perjalanan sebuah sinar.
 
@@ -40,7 +42,9 @@ Untuk medium berlapis mendatar, $p = \sin i / V$ juga sama dengan **kelambatan s
 
 Ketika $V_2 > V_1$, ada sudut datang saat sinar biasnya merambat **sejajar batas**:
 
-25044i_c = \arcsin\left(\frac{V_1}{V_2}\right)25044
+```math
+i_c = \arcsin\left(\frac{V_1}{V_2}\right)
+```
 
 Di atas sudut itu tidak ada lagi sinar yang menembus — seluruh energi terpantul (*total internal reflection*).
 
@@ -52,7 +56,9 @@ Tepat pada sudut kritis, gelombang merambat sepanjang batas dengan kecepatan $V_
 
 Untuk dua lapis mendatar, waktu tiba gelombang kepala:
 
-25044T = \frac{X}{V_2} + \frac{2h\sqrt{V_2^2 - V_1^2}}{V_1 V_2}25044
+```math
+T = \frac{X}{V_2} + \frac{2h\sqrt{V_2^2 - V_1^2}}{V_1 V_2}
+```
 
 Garis lurus dengan kemiringan $1/V_2$ dan intersep yang memuat ketebalan $h$. **Ukur keduanya, dapatkan kecepatan lapisan bawah dan kedalaman batasnya** — itulah seluruh gagasan seismik refraksi, dan cara Mohorovičić menemukan Moho pada 1909.
 
@@ -66,7 +72,9 @@ Di bumi nyata kecepatan naik bertahap, bukan melompat. Sinar melengkung terus-me
 
 Jarak dan waktu tempuh diperoleh dengan integrasi:
 
-25044X(p) = 2\int_0^{z_p} \frac{p\,V\,dz}{\sqrt{1-p^2V^2}}, \qquad T(p) = 2\int_0^{z_p} \frac{dz}{V\sqrt{1-p^2V^2}}25044
+```math
+X(p) = 2\int_0^{z_p} \frac{p\,V\,dz}{\sqrt{1-p^2V^2}}, \qquad T(p) = 2\int_0^{z_p} \frac{dz}{V\sqrt{1-p^2V^2}}
+```
 
 Fungsi $\tau(p) = T - pX$ sering lebih mudah dipakai karena selalu bernilai tunggal.
 

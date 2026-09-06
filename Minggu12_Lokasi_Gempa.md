@@ -36,7 +36,9 @@ Jawabannya adalah inti pertemuan hari ini: **keempat besaran itu tidak dapat dic
 
 Gelombang P dan S berangkat **bersamaan** dari hiposenter tetapi merambat dengan kecepatan berbeda. Semakin jauh stasiun, semakin lebar jaraknya. Untuk medium berkecepatan seragam:
 
-$$t_S - t_P = d \left( \frac{1}{V_S} - \frac{1}{V_P} \right)$$
+```math
+t_S - t_P = d \left( \frac{1}{V_S} - \frac{1}{V_P} \right)
+```
 
 ### Diagram Wadati
 
@@ -47,7 +49,9 @@ Plot $(t_S - t_P)$ terhadap $t_P$ untuk semua stasiun. Hasilnya **garis lurus** 
 
 Pada event 9101 dengan 11 stasiun, kemiringannya 0,798 sehingga
 
-$$V_P/V_S = 1{,}798 \qquad \sigma_{\text{Poisson}} = 0{,}276$$
+```math
+V_P/V_S = 1{,}798 \qquad \sigma_{\text{Poisson}} = 0{,}276
+```
 
 Nilai yang wajar untuk batuan kerak.
 
@@ -71,7 +75,9 @@ Tiap stasiun memberi satu **jarak**, bukan arah. Maka tiap stasiun mendefinisika
 
 Tapi hati-hati dengan satu subtlety yang sering terlewat. Yang diberikan S−P adalah jarak **hiposentral** — jarak miring sampai ke kedalaman. Jari-jari lingkaran di peta adalah proyeksinya:
 
-$$R_{\text{peta}} = \sqrt{d_{\text{hiposentral}}^2 - h^2}$$
+```math
+R_{\text{peta}} = \sqrt{d_{\text{hiposentral}}^2 - h^2}
+```
 
 Di situlah kedalaman menyusup masuk. Dan bila $h > d$, akar itu menjadi imajiner — lingkarannya **tidak ada sama sekali**, seperti panel C tadi. Ketiadaan lingkaran itu sendiri adalah bukti bahwa asumsi kedalaman kalian salah.
 
@@ -87,7 +93,9 @@ Metode lingkaran tidak terpakai lagi begitu jumlah stasiun banyak dan datanya be
 
 Empat besaran yang dicari: $\mathbf{m} = (x, y, z, t_0)$. Untuk tiap stasiun $i$, waktu tiba hasil hitungan adalah
 
-$$t_i^{\text{hitung}} = t_0 + T_i(x, y, z)$$
+```math
+t_i^{\text{hitung}} = t_0 + T_i(x, y, z)
+```
 
 Residu adalah selisih antara pengamatan dan hitungan: $r_i = t_i^{\text{amat}} - t_i^{\text{hitung}}$.
 
@@ -95,12 +103,16 @@ Residu adalah selisih antara pengamatan dan hitungan: $r_i = t_i^{\text{amat}} -
 
 $T_i$ tidak linear terhadap posisi, jadi tidak bisa diselesaikan sekali jalan. Geiger (1912) mengusulkan: **mulai dari tebakan, lalu perbaiki sedikit demi sedikit.**
 
-$$\mathbf{r} = \mathbf{G}\, \Delta\mathbf{m}, \qquad
-G_{ij} = \frac{\partial T_i}{\partial m_j}$$
+```math
+\mathbf{r} = \mathbf{G}\, \Delta\mathbf{m}, \qquad
+G_{ij} = \frac{\partial T_i}{\partial m_j}
+```
 
 Matriks $\mathbf{G}$ berisi turunan parsial waktu tempuh terhadap keempat parameter. Solusi kuadrat terkecilnya
 
-$$\Delta\mathbf{m} = (\mathbf{G}^\mathrm{T}\mathbf{G})^{-1}\mathbf{G}^\mathrm{T}\mathbf{r}$$
+```math
+\Delta\mathbf{m} = (\mathbf{G}^\mathrm{T}\mathbf{G})^{-1}\mathbf{G}^\mathrm{T}\mathbf{r}
+```
 
 Perbarui $\mathbf{m}$, hitung ulang, ulangi sampai $\Delta\mathbf{m}$ mengecil. Biasanya cukup 3–6 iterasi.
 

@@ -43,7 +43,9 @@ Tekan telapak tangan ke meja dengan gaya 100 newton — tidak terjadi apa-apa. T
 
 Gayanya identik. Yang berbeda **luas bidang tempat gaya itu bekerja**. Karena itu besaran yang bermakna secara fisis bukanlah gaya, melainkan gaya dibagi luas:
 
-$$\text{tegangan} = \frac{F}{A} \qquad \text{satuan: pascal (Pa)} = \text{N/m}^2$$
+```math
+\text{tegangan} = \frac{F}{A} \qquad \text{satuan: pascal (Pa)} = \text{N/m}^2
+```
 
 Sampai di sini masih sederhana — tegangan tampak seperti "tekanan biasa", satu angka.
 
@@ -67,9 +69,11 @@ Satu titik, satu keadaan tegangan, tetapi **jawaban berbeda untuk tiap orientasi
 
 Tensor tegangan bukanlah satu angka. Ia lebih tepat dibayangkan sebagai **mesin penjawab**: kalian masukkan orientasi bidang, ia mengeluarkan gaya per satuan luas pada bidang itu.
 
-$$T_i = \sigma_{ij}\, n_j$$
+```math
+T_i = \sigma_{ij}\, n_j
+```
 
-Di sini \$\hat{n}\$ adalah arah tegak lurus bidang yang kalian tanyakan, dan \$\vec{T}\$ adalah **vektor traksi** — jawabannya.
+Di sini $\hat{n}$ adalah arah tegak lurus bidang yang kalian tanyakan, dan $\vec{T}$ adalah **vektor traksi** — jawabannya.
 
 > **Berhenti dan periksa ①**
 > Sebelum lanjut, pastikan mahasiswa bisa menjawab: *"Mengapa satu angka tidak cukup untuk menyatakan tegangan di satu titik?"*
@@ -85,7 +89,9 @@ Bayangkan kubus sangat kecil di dalam batuan. Kubus itu punya tiga pasang sisi, 
 
 ### Aturan membaca indeks — satu-satunya yang perlu dihafal
 
-$$\sigma_{ij}: \quad i = \text{bidangnya menghadap ke mana}, \qquad j = \text{gayanya ke arah mana}$$
+```math
+\sigma_{ij}: \quad i = \text{bidangnya menghadap ke mana}, \qquad j = \text{gayanya ke arah mana}
+```
 
 Ucapkan keras-keras beberapa kali di kelas:
 
@@ -102,7 +108,7 @@ Karena itu **diagonal matriks selalu tegangan normal**, dan **semua yang di luar
 
 ### Mengapa hanya enam yang bebas
 
-Matriksnya simetris: \$\sigma_{ij} = \sigma_{ji}\$.
+Matriksnya simetris: $\sigma_{ij} = \sigma_{ji}$.
 
 Alasannya fisis dan mudah dibayangkan: kalau σ₁₂ tidak sama dengan σ₂₁, akan ada momen gaya sisa pada kubus kecil itu. Kubus itu akan **berputar makin cepat tanpa henti**, tanpa ada yang memutarnya. Alam tidak mengizinkan hal semacam itu terjadi.
 
@@ -127,7 +133,9 @@ Inilah gagasan terpenting hari ini.
 
 Untuk **keadaan tegangan apa pun**, selalu ada satu orientasi kubus di mana **seluruh komponen gesernya menjadi nol**. Yang tersisa hanya tiga tegangan normal, disebut **tegangan utama**:
 
-$$\sigma_1 \ge \sigma_2 \ge \sigma_3$$
+```math
+\sigma_1 \ge \sigma_2 \ge \sigma_3
+```
 
 Arah-arah itu disebut **sumbu utama**.
 
@@ -153,7 +161,9 @@ Yang penting **bukan cara menghitungnya**, melainkan kenyataan bahwa arah semaca
 
 Pecah tensor menjadi dua bagian:
 
-$$\sigma_{ij} = \underbrace{\frac{1}{3}\sigma_{kk}\,\delta_{ij}}_{\text{isotropik}} + \underbrace{\sigma_{ij}^{\text{dev}}}_{\text{deviatorik}}$$
+```math
+\sigma_{ij} = \underbrace{\frac{1}{3}\sigma_{kk}\,\delta_{ij}}_{\text{isotropik}} + \underbrace{\sigma_{ij}^{\text{dev}}}_{\text{deviatorik}}
+```
 
 | Bagian | Yang dilakukannya |
 |:--|:--|
@@ -166,7 +176,7 @@ $$\sigma_{ij} = \underbrace{\frac{1}{3}\sigma_{kk}\,\delta_{ij}}_{\text{isotropi
 
 ### Tegangan geser maksimum dan arah sesar
 
-Tegangan geser terbesar bekerja pada bidang **45°** terhadap σ₁, dengan besar \$(\sigma_1-\sigma_3)/2\$.
+Tegangan geser terbesar bekerja pada bidang **45°** terhadap σ₁, dengan besar $(\sigma_1-\sigma_3)/2$.
 
 Tetapi sesar nyata di batuan biasanya terbentuk pada **25°–35°** terhadap σ₁, bukan 45°. Sebabnya: bidang sesar juga harus melawan **gesekan**, dan sudut yang paling "murah" secara energi bergeser dari 45°. Ini kriteria Mohr–Coulomb.
 
@@ -190,11 +200,13 @@ Perhatikan baik-baik ketiga panel pada gambar. Dua di antaranya regangan, satu *
 
 ### Mengapa rumusnya berbentuk begitu
 
-$$\varepsilon_{ij} = \frac{1}{2}\left( \frac{\partial u_i}{\partial x_j} + \frac{\partial u_j}{\partial x_i} \right)$$
+```math
+\varepsilon_{ij} = \frac{1}{2}\left( \frac{\partial u_i}{\partial x_j} + \frac{\partial u_j}{\partial x_i} \right)
+```
 
 Mahasiswa sering menganggap bentuk ini sebagai rumus yang harus dihafal. Padahal ia punya alasan yang tegas:
 
-Gradien perpindahan \$\partial u_i/\partial x_j\$ memuat **dua hal tercampur**: perubahan bentuk **dan** rotasi. Bentuk simetris dengan tanda **tambah** dan faktor **setengah** sengaja dirancang agar bagian rotasinya **saling meniadakan** dan menghasilkan nol.
+Gradien perpindahan $\partial u_i/\partial x_j$ memuat **dua hal tercampur**: perubahan bentuk **dan** rotasi. Bentuk simetris dengan tanda **tambah** dan faktor **setengah** sengaja dirancang agar bagian rotasinya **saling meniadakan** dan menghasilkan nol.
 
 Kalau tandanya diganti kurang, yang terhitung justru rotasinya — bukan regangannya. Itulah tensor rotasi, dan ia bukan yang kita inginkan.
 
@@ -212,7 +224,7 @@ Kalau tandanya diganti kurang, yang terhitung justru rotasinya — bukan reganga
 
 Untuk merasakan seberapa kecil 10⁻⁹: pada batang sepanjang **satu meter**, itu perubahan panjang sebesar **satu nanometer** — beberapa diameter atom saja.
 
-**Konsekuensinya besar dan sering diremehkan.** Pada regangan sekecil itu, batuan berperilaku **linear sempurna**: gandakan tegangan, regangannya tepat berlipat dua. Sifat inilah yang mengizinkan seluruh kerangka konvolusi di Minggu 11 — \$u(t) = s(t) * g(t) * i(t) + n(t)\$ — berlaku. Tanpa linearitas itu, seismologi seperti yang kita kenal tidak akan ada.
+**Konsekuensinya besar dan sering diremehkan.** Pada regangan sekecil itu, batuan berperilaku **linear sempurna**: gandakan tegangan, regangannya tepat berlipat dua. Sifat inilah yang mengizinkan seluruh kerangka konvolusi di Minggu 11 — $u(t) = s(t) * g(t) * i(t) + n(t)$ — berlaku. Tanpa linearitas itu, seismologi seperti yang kita kenal tidak akan ada.
 
 Dan itu pula sebabnya asumsi ini **gugur** di dekat sumber gempa besar, di mana regangannya mencapai 10⁻⁴ dan batuan mulai berperilaku tidak linear.
 
@@ -224,9 +236,11 @@ Dan itu pula sebabnya asumsi ini **gugur** di dekat sumber gempa besar, di mana 
 
 Hukum Hooke menghubungkan sebab dengan akibat:
 
-$$\sigma_{ij} = c_{ijkl}\,\varepsilon_{kl}$$
+```math
+\sigma_{ij} = c_{ijkl}\,\varepsilon_{kl}
+```
 
-Tensor \$c_{ijkl}\$ punya 81 komponen. Simetri memangkasnya jadi 21. Dan untuk medium **isotropik** — sifatnya sama ke segala arah — hanya tersisa **dua bilangan bebas**.
+Tensor $c_{ijkl}$ punya 81 komponen. Simetri memangkasnya jadi 21. Dan untuk medium **isotropik** — sifatnya sama ke segala arah — hanya tersisa **dua bilangan bebas**.
 
 Empat modulus yang lazim dipakai hanyalah cara berbeda menyatakan kedua bilangan itu:
 
@@ -239,7 +253,9 @@ Empat modulus yang lazim dipakai hanyalah cara berbeda menyatakan kedua bilangan
 
 Seismologi memakai pasangan **Lamé**: **λ** dan **μ**. Sisanya dapat dihitung darinya:
 
-$$K = \lambda + \tfrac{2}{3}\mu, \qquad E = \frac{\mu(3\lambda+2\mu)}{\lambda+\mu}, \qquad \sigma = \frac{\lambda}{2(\lambda+\mu)}$$
+```math
+K = \lambda + \tfrac{2}{3}\mu, \qquad E = \frac{\mu(3\lambda+2\mu)}{\lambda+\mu}, \qquad \sigma = \frac{\lambda}{2(\lambda+\mu)}
+```
 
 **Rumus-rumus ini tidak perlu dihafal.** Yang perlu diingat hanya: **dua angka sudah cukup** untuk memerikan seluruh sifat elastik batuan isotropik.
 
@@ -257,17 +273,21 @@ Angka nol itu akan menjelaskan segalanya di menit berikutnya.
 
 Minggu depan kita akan menurunkan persamaan gelombang seismik. Hasilnya — dan ini janji yang boleh disampaikan sekarang — adalah **dua kecepatan**:
 
-$$V_P = \sqrt{\frac{\lambda + 2\mu}{\rho}}, \qquad V_S = \sqrt{\frac{\mu}{\rho}}$$
+```math
+V_P = \sqrt{\frac{\lambda + 2\mu}{\rho}}, \qquad V_S = \sqrt{\frac{\mu}{\rho}}
+```
 
 Kedua besaran dari hari ini, λ dan μ, ditambah densitas, langsung menjadi kecepatan gelombang.
 
 ### Sekarang jawab pertanyaan pembuka
 
-Lihat rumus \$V_S\$ sekali lagi. Ia **hanya memuat μ**.
+Lihat rumus $V_S$ sekali lagi. Ia **hanya memuat μ**.
 
 Dan pada zat cair, **μ = 0**.
 
-$$V_S = \sqrt{\frac{0}{\rho}} = 0$$
+```math
+V_S = \sqrt{\frac{0}{\rho}} = 0
+```
 
 **Gelombang S tidak dapat menembus zat cair.** Bukan karena ia terlalu lemah, bukan karena teredam — melainkan karena secara fisis ia **tidak dapat ada di sana**. Tidak ada yang melawan perubahan bentuk, jadi tidak ada yang bisa merambatkannya.
 
@@ -281,7 +301,7 @@ Tidak seorang pun pernah mengebor sampai ke sana. Lubang terdalam yang pernah di
 
 > Kesimpulan terkuat dalam ilmu kebumian justru ditarik dari data yang **tidak datang**. Kita bahas tuntas di Minggu 6.
 
-Dan di **Minggu 12**, mahasiswa akan mengukur \$V_P/V_S = 1{,}80\$ dari data gempa Yogyakarta 2006 dengan tangan mereka sendiri — yang berarti nisbah Poisson 0,276 untuk kerak di bawah Bantul. Angka itu bukan hafalan dari buku; itu hasil pengukuran mereka.
+Dan di **Minggu 12**, mahasiswa akan mengukur $V_P/V_S = 1{,}80$ dari data gempa Yogyakarta 2006 dengan tangan mereka sendiri — yang berarti nisbah Poisson 0,276 untuk kerak di bawah Bantul. Angka itu bukan hafalan dari buku; itu hasil pengukuran mereka.
 
 ---
 
@@ -296,7 +316,7 @@ Bahas terbuka di kelas. Menamai kesalahan lebih efektif daripada sekadar mengaja
 | "Benda yang berputar mengalami regangan" | Rotasi benda tegar memberi ε = 0. Itulah sebabnya rumus regangan disimetriskan |
 | "Regangan seismik itu besar, kan bisa merobohkan rumah" | Regangannya 10⁻⁹–10⁻⁶. Yang merobohkan rumah adalah **percepatan**, bukan regangan |
 | "Air tidak punya modulus, kan cair" | Air punya K = 2,2 GPa. Yang nol hanya **μ** |
-| "Kalau μ = 0 maka gelombang P juga hilang" | \$V_P = \sqrt{(\lambda+2\mu)/\rho}\$ — masih ada λ. P tetap merambat di zat cair; itulah bunyi |
+| "Kalau μ = 0 maka gelombang P juga hilang" | $V_P = \sqrt{(\lambda+2\mu)/\rho}$ — masih ada λ. P tetap merambat di zat cair; itulah bunyi |
 
 ---
 
@@ -333,7 +353,9 @@ Jawab dari nalar sendiri lebih dahulu. Salah tidak mengurangi nilai; yang dinila
 
 Diberikan tensor tegangan (dalam MPa):
 
-$$\sigma = \begin{pmatrix} -40 & 12 & 0 \\ 12 & -25 & 0 \\ 0 & 0 & -30 \end{pmatrix}$$
+```math
+\sigma = \begin{pmatrix} -40 & 12 & 0 \\ 12 & -25 & 0 \\ 0 & 0 & -30 \end{pmatrix}
+```
 
 **Kerjakan dengan tangan dan kalkulator dulu**, baru periksa dengan `numpy.linalg.eigh`.
 
